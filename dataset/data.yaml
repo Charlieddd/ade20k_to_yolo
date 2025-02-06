@@ -1,0 +1,50 @@
+path: /home/charlie/fiftyone/dataset
+train: images/train
+val: images/val
+test: ''
+names:
+  0: wall
+  1: person
+  2: tree
+  3: car
+  4: plant
+  5: leg
+  6: book
+  7: sidewalk
+  8: grass
+  9: earth
+  10: bottle
+  11: rock
+  12: pot
+  13: flower
+  14: fence
+  15: vase
+  16: glass
+  17: pole
+  18: rug
+  19: stairs
+  20: stool
+  21: jar
+  22: plaything
+  23: ashcan
+  24: water
+  25: path
+  26: ball
+  27: switch
+  28: base
+  29: fruit
+  30: shoe
+  31: umbrella
+  32: bicycle
+  33: minibike
+  34: fireplace
+  35: sculpture
+  36: sand
+  37: bucket
+  38: animal
+  39: mug
+  40: land
+  41: curb
+  42: snow
+  43: stove
+  44: trunk

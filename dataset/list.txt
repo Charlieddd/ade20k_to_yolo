@@ -1,0 +1,81 @@
+=== Annotation Statistics ===
+
+Training Set:
+Total categories: 1625
+Total annotations: 623359
+Warning: Found 4 invalid category IDs: [3105, 3107, 3108, 3109]
+
+Top categories by annotation count:
+ID     Name                           Count      Percentage
+------------------------------------------------------------
+2978   wall                           35928        5.76%
+1831   person, individual, someone, somebody, mortal, soul 27673        4.44%
+2855   tree                           24897        3.99%
+401    car, auto, automobile, machine, motorcar 14864        2.38%
+1910   plant, flora, plant life       12848        2.06%
+2420   sky                            11430        1.83%
+1433   leg                            6496         1.04%
+236    book                           5598         0.90%
+2377   sidewalk, pavement             5363         0.86%
+1125   grass                          4283         0.69%
+838    earth, ground                  4006         0.64%
+249    bottle                         3759         0.60%
+2138   rock, stone                    3296         0.53%
+1981   pot, flowerpot                 2932         0.47%
+978    flower                         2630         0.42%
+907    fence, fencing                 2603         0.42%
+2932   vase                           2417         0.39%
+1098   glass, drinking glass          2097         0.34%
+1936   pole                           2059         0.33%
+2178   rug, carpet, carpeting         1710         0.27%
+2530   stairs, steps                  1240         0.20%
+1974   pot                            1165         0.19%
+2586   stool                          1103         0.18%
+1349   jar                            1055         0.17%
+1930   plaything, toy                 1047         0.17%
+64     ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin 946          0.15%
+2994   water                          910          0.15%
+1788   path                           895          0.14%
+103    ball                           845          0.14%
+2676   switch, electric switch, electrical switch 793          0.13%
+137    base, pedestal, stand          784          0.13%
+1033   fruit                          773          0.12%
+2531   stairway, staircase            767          0.12%
+2341   shoe                           703          0.11%
+2901   umbrella                       685          0.11%
+187    bicycle, bike, wheel, cycle    638          0.10%
+1563   minibike, motorbike            637          0.10%
+943    fireplace, hearth, open fireplace 621          0.10%
+2262   sculpture                      599          0.10%
+10     air conditioner, air conditioning 594          0.10%
+2212   sand                           558          0.09%
+303    bucket, pail                   542          0.09%
+29     animal, animate being, beast, brute, creature, fauna 491          0.08%
+1619   mug                            425          0.07%
+1401   land, ground, soil             345          0.06%
+682    curb, curbing, kerb            330          0.05%
+2454   snow                           326          0.05%
+2597   stove                          245          0.04%
+2885   trunk, tree trunk, bole        244          0.04%
+1941   pond                           137          0.02%
+1062   garage door                    82           0.01%
+1479   lumber, timber                 74           0.01%
+565    coffee cup                     71           0.01%
+743    dish, dish aerial, dish antenna, saucer 69           0.01%
+2218   sandal                         68           0.01%
+813    duck                           67           0.01%
+1911   planter                        58           0.01%
+145    basket, basketball hoop, hoop  58           0.01%
+356    cactus                         56           0.01%
+141    baseboard, mopboard, skirting board 49           0.01%
+1371   keys                           47           0.01%
+1231   helmet                         44           0.01%
+2175   rubbish, trash, scrap          43           0.01%
+107    ball, globe, orb               39           0.01%
+2936   vegetables                     39           0.01%
+2517   sprinkler                      35           0.01%
+1424   leaves                         34           0.01%
+2440   slipper                        31           0.00%
+2020   pumpkin                        31           0.00%
+2355   shovel                         31           0.00%
+

@@ -1,0 +1,2514 @@
+=== Annotation Statistics ===
+
+Training Set:
+Total categories: 1625
+Total annotations: 623359
+Warning: Found 4 invalid category IDs: [3105, 3107, 3108, 3109]
+
+Top categories by annotation count:
+ID     Name                           Count      Percentage
+------------------------------------------------------------
+2978   wall                           35928        5.76%
+3050   window                         33581        5.39%
+1831   person, individual, someone, somebody, mortal, soul 27673        4.44%
+2855   tree                           24897        3.99%
+312    building, edifice              19375        3.11%
+471    chair                          15353        2.46%
+774    door                           15126        2.43%
+401    car, auto, automobile, machine, motorcar 14864        2.38%
+1910   plant, flora, plant life       12848        2.06%
+976    floor, flooring                11749        1.88%
+2420   sky                            11430        1.83%
+1451   light, light source            10913        1.75%
+3055   windowpane, window             10013        1.61%
+1735   painting, picture              9657         1.55%
+447    ceiling                        9031         1.45%
+2684   table                          8890         1.43%
+350    cabinet                        8323         1.34%
+1433   leg                            6496         1.04%
+1395   lamp                           6462         1.04%
+1180   handle                         6261         1.00%
+2380   signboard, sign                5912         0.95%
+689    cushion                        5634         0.90%
+236    book                           5598         0.90%
+2131   road, route                    5380         0.86%
+2377   sidewalk, pavement             5363         0.86%
+1448   light source                   5255         0.84%
+789    drawer                         5088         0.82%
+687    curtain, drape, drapery, mantle, pall 4868         0.78%
+2311   shade                          4671         0.75%
+266    box                            4468         0.72%
+1125   grass                          4283         0.69%
+1380   knob                           4261         0.68%
+1610   mountain, mount                4138         0.66%
+838    earth, ground                  4006         0.64%
+1746   pane                           3902         0.63%
+249    bottle                         3759         0.60%
+3035   wheel                          3589         0.58%
+54     arm                            3522         0.57%
+2329   shelf                          3377         0.54%
+2138   rock, stone                    3296         0.53%
+2272   seat                           3077         0.49%
+1981   pot, flowerpot                 2932         0.47%
+1238   highlight                      2832         0.45%
+83     back                           2830         0.45%
+580    column                         2743         0.44%
+2509   spotlight, spot                2738         0.44%
+57     armchair                       2714         0.44%
+978    flower                         2630         0.42%
+1564   mirror                         2619         0.42%
+907    fence, fencing                 2603         0.42%
+165    bed                            2550         0.41%
+2932   vase                           2417         0.39%
+1206   head                           2338         0.38%
+581    column, pillar                 2193         0.35%
+1869   pillow                         2168         0.35%
+2276   seat cushion                   2120         0.34%
+1098   glass, drinking glass          2097         0.34%
+2473   sofa, couch, lounge            2094         0.34%
+1919   plate                          2083         0.33%
+1936   pole                           2059         0.33%
+2243   sconce                         1952         0.31%
+2982   wall socket, wall plug, electric outlet, electrical outlet, outlet, electric receptacle 1838         0.29%
+136    base                           1777         0.29%
+2178   rug, carpet, carpeting         1710         0.27%
+2122   rim                            1708         0.27%
+86     back pillow                    1682         0.27%
+2117   right arm                      1620         0.26%
+2053   railing, rail                  1565         0.25%
+101    balcony                        1548         0.25%
+1428   left arm                       1541         0.25%
+884    eye                            1529         0.25%
+259    bowl                           1527         0.24%
+2388   sink                           1497         0.24%
+181    bench                          1449         0.23%
+1431   left leg                       1417         0.23%
+1276   house                          1401         0.22%
+2120   right leg                      1392         0.22%
+1744   palm, palm tree                1371         0.22%
+3087   work surface                   1356         0.22%
+2051   rail                           1305         0.21%
+724    desk                           1292         0.21%
+2814   top                            1286         0.21%
+2264   sea                            1266         0.20%
+95     bag                            1264         0.20%
+1213   headlight                      1256         0.20%
+2530   stairs, steps                  1240         0.20%
+146    basket, handbasket             1216         0.20%
+1439   license plate                  1216         0.20%
+895    faucet                         1199         0.19%
+1974   pot                            1165         0.19%
+2700   taillight                      1161         0.19%
+2578   stile                          1139         0.18%
+571    coffee table, cocktail table   1137         0.18%
+2368   shrub, bush                    1114         0.18%
+2586   stool                          1103         0.18%
+2821   towel                          1097         0.18%
+1212   headboard                      1080         0.17%
+982    fluorescent, fluorescent fixture 1063         0.17%
+1349   jar                            1055         0.17%
+1930   plaything, toy                 1047         0.17%
+2836   traffic light, traffic signal, stoplight 1040         0.17%
+1625   muntin                         1033         0.17%
+1329   inside arm                     1024         0.16%
+77     awning, sunshade, sunblind     1023         0.16%
+530    clock                          1005         0.16%
+2679   swivel chair                   994          0.16%
+2423   skyscraper                     986          0.16%
+64     ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin 946          0.15%
+223    boat                           933          0.15%
+954    flag                           932          0.15%
+2370   shutter                        915          0.15%
+2994   water                          910          0.15%
+378    candlestick, candle holder     907          0.15%
+1615   mouth                          895          0.14%
+1788   path                           895          0.14%
+913    field                          883          0.14%
+42     apron                          880          0.14%
+1756   paper                          874          0.14%
+2119   right hand                     870          0.14%
+3057   windshield                     869          0.14%
+2155   roof                           859          0.14%
+480    chandelier, pendant, pendent   849          0.14%
+1024   frame                          848          0.14%
+103    ball                           845          0.14%
+783    double door                    832          0.13%
+918    figurine, statuette            811          0.13%
+120    bannister, banister, balustrade, balusters, handrail 809          0.13%
+2733   television receiver, television, television set, tv, tv set, idiot box, boob tube, telly, goggle box 803          0.13%
+2928   van                            799          0.13%
+2676   switch, electric switch, electrical switch 793          0.13%
+137    base, pedestal, stand          784          0.13%
+1033   fruit                          773          0.12%
+2531   stairway, staircase            767          0.12%
+1969   poster, posting, placard, notice, bill, card 763          0.12%
+212    blind, screen                  758          0.12%
+2273   seat base                      756          0.12%
+2850   tray                           755          0.12%
+1430   left hand                      747          0.12%
+2250   screen                         729          0.12%
+730    dial                           721          0.12%
+2341   shoe                           703          0.11%
+320    bumper                         686          0.11%
+2901   umbrella                       685          0.11%
+2880   truck, motortruck              676          0.11%
+776    door frame                     662          0.11%
+1002   food, solid food               661          0.11%
+2128   river                          642          0.10%
+491    chest of drawers, chest, bureau, dresser 638          0.10%
+187    bicycle, bike, wheel, cycle    638          0.10%
+1563   minibike, motorbike            637          0.10%
+2598   stove, kitchen stove, range, kitchen range, cooking stove 634          0.10%
+2346   shop window                    634          0.10%
+1707   outside arm                    626          0.10%
+943    fireplace, hearth, open fireplace 621          0.10%
+1485   magazine                       607          0.10%
+591    computer, computing machine, computing device, data processor, electronic computer, information processing system 602          0.10%
+2262   sculpture                      599          0.10%
+36     aperture                       594          0.10%
+10     air conditioner, air conditioning 594          0.10%
+2833   trade name, brand name, brand, marque 589          0.09%
+1644   napkin, table napkin, serviette 586          0.09%
+1583   monitor, monitoring device     584          0.09%
+2052   railing                        575          0.09%
+2730   telephone, phone, telephone set 572          0.09%
+1708   oven                           568          0.09%
+2212   sand                           558          0.09%
+303    bucket, pail                   542          0.09%
+239    bookcase                       538          0.09%
+894    fan                            537          0.09%
+2096   refrigerator, icebox           535          0.09%
+2820   torso                          532          0.09%
+495    chimney                        529          0.08%
+371    can, tin, tin can              524          0.08%
+1429   left foot                      517          0.08%
+161    beam                           517          0.08%
+2118   right foot                     501          0.08%
+2372   side                           501          0.08%
+1702   ottoman, pouf, pouffe, puff, hassock 492          0.08%
+29     animal, animate being, beast, brute, creature, fauna 491          0.08%
+327    bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle 490          0.08%
+3016   waterfall, falls               490          0.08%
+1012   footboard                      486          0.08%
+1370   keyboard                       486          0.08%
+733    diffusor                       481          0.08%
+2411   skirt                          480          0.08%
+627    counter                        474          0.08%
+389    canopy                         469          0.08%
+38     apparel, wearing apparel, dress, clothes 466          0.07%
+2499   spindle                        465          0.07%
+203    blade                          442          0.07%
+1031   front                          438          0.07%
+2569   step, stair                    438          0.07%
+1131   gravestone, headstone, tombstone 435          0.07%
+155    bathtub, bathing tub, bath, tub 429          0.07%
+2793   toilet, can, commode, crapper, pot, potty, stool, throne 429          0.07%
+1582   monitor                        428          0.07%
+1619   mug                            425          0.07%
+2748   text, textual matter           415          0.07%
+1551   microwave, microwave oven      410          0.07%
+897    faucet, spigot                 405          0.06%
+2985   wardrobe, closet, press        393          0.06%
+1474   loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 391          0.06%
+1240   hill                           387          0.06%
+1791   patty, cake                    381          0.06%
+831    ear                            380          0.06%
+96     bag, handbag, pocketbook, purse 377          0.06%
+294    bridge, span                   375          0.06%
+629    countertop                     372          0.06%
+2617   stretcher                      370          0.06%
+313    bulb                           368          0.06%
+92     backplate                      367          0.06%
+14     airplane, aeroplane, plane     361          0.06%
+1957   post                           360          0.06%
+1747   pane, pane of glass, window glass 359          0.06%
+677    cup                            355          0.06%
+220    board, plank                   354          0.06%
+1081   gate                           354          0.06%
+1494   manhole                        354          0.06%
+1247   hinge                          348          0.06%
+1197   hat, chapeau, lid              348          0.06%
+1401   land, ground, soil             345          0.06%
+597    container                      343          0.06%
+376    candle, taper, wax light       342          0.05%
+665    crosswalk                      336          0.05%
+131    barrel, cask                   336          0.05%
+704    deck chair, beach chair        333          0.05%
+682    curb, curbing, kerb            330          0.05%
+1260   hood, exhaust hood             330          0.05%
+2454   snow                           326          0.05%
+341    button panel                   322          0.05%
+1441   lid                            321          0.05%
+1662   notebook                       314          0.05%
+318    bulletin board, notice board   313          0.05%
+747    dishwasher, dish washer, dishwashing machine 311          0.05%
+206    blanket, cover                 310          0.05%
+90     backpack, back pack, knapsack, packsack, rucksack, haversack 308          0.05%
+3056   windows                        304          0.05%
+1944   pool ball                      303          0.05%
+1226   hedge, hedgerow                303          0.05%
+1659   nose                           301          0.05%
+1139   grill, grille, grillwork       299          0.05%
+55     arm panel                      299          0.05%
+1160   hair                           299          0.05%
+2886   tube                           294          0.05%
+948    fish                           293          0.05%
+762    document, written document, papers 292          0.05%
+420    case, display case, showcase, vitrine 292          0.05%
+1378   knife                          288          0.05%
+1892   pitcher, ewer                  285          0.05%
+1174   hand                           282          0.05%
+2547   statue                         282          0.05%
+97     bag, traveling bag, travelling bag, grip, suitcase 280          0.04%
+543    cloud                          280          0.04%
+2224   sash                           276          0.04%
+781    dormer                         271          0.04%
+56     arm support                    269          0.04%
+198    bird                           266          0.04%
+461    central reservation            264          0.04%
+524    cliff, drop, drop-off          261          0.04%
+242    booklet, brochure, folder, leaflet, pamphlet 258          0.04%
+1948   pool table, billiard table, snooker table 252          0.04%
+569    coffee maker                   250          0.04%
+625    corner pocket                  250          0.04%
+324    burner                         247          0.04%
+123    bar                            247          0.04%
+1407   laptop, laptop computer        246          0.04%
+2597   stove                          245          0.04%
+2885   trunk, tree trunk, bole        244          0.04%
+2722   teacup                         242          0.04%
+1896   place mat                      242          0.04%
+1884   pipe, pipage, piping           241          0.04%
+1158   gym shoe, sneaker, tennis shoe 240          0.04%
+468    chain                          238          0.04%
+47     arcade machine                 235          0.04%
+2046   radiator                       230          0.04%
+2099   remote control, remote         223          0.04%
+518    cistern                        218          0.03%
+618    cord                           217          0.03%
+791    drawing                        215          0.03%
+1611   mouse                          211          0.03%
+589    computer case                  209          0.03%
+1121   grandstand, covered stand      208          0.03%
+1690   opening                        204          0.03%
+2312   shaft                          203          0.03%
+2723   teapot                         203          0.03%
+855    embankment                     201          0.03%
+1779   parking meter                  201          0.03%
+1374   kitchen island                 200          0.03%
+396    capital                        197          0.03%
+1346   jacket                         194          0.03%
+2828   tower                          194          0.03%
+1533   merchandise, ware, product     193          0.03%
+118    banner, streamer               191          0.03%
+3049   windmill, aerogenerator, wind generator 190          0.03%
+1810   pen                            188          0.03%
+2708   tap                            187          0.03%
+1646   neck                           186          0.03%
+1784   partition, divider             181          0.03%
+2537   stall, stand, sales booth      177          0.03%
+2465   soap dispenser                 176          0.03%
+1391   ladder                         176          0.03%
+2989   washer, automatic washer, washing machine 176          0.03%
+638    cow, moo-cow                   174          0.03%
+2792   toilet tissue, toilet paper, bathroom tissue 173          0.03%
+394    cap                            169          0.03%
+2148   rod                            168          0.03%
+890    face                           166          0.03%
+772    dome                           166          0.03%
+1019   fork                           165          0.03%
+1476   lower sash                     164          0.03%
+675    cue, cue stick, pool cue, pool stick 163          0.03%
+2251   screen door, screen            161          0.03%
+1540   metal shutter                  159          0.03%
+643    crane                          157          0.03%
+1367   kettle, boiler                 156          0.03%
+746    dishrag, dishcloth             156          0.03%
+385    canister, cannister, tin       155          0.02%
+245    boot                           155          0.02%
+2955   videos                         154          0.02%
+2339   shirt                          153          0.02%
+1858   pier, wharf, wharfage, dock    153          0.02%
+2834   traffic cone                   152          0.02%
+196    binder, ring-binder            152          0.02%
+2505   spoon                          151          0.02%
+1279   housing                        150          0.02%
+1223   heater, warmer                 149          0.02%
+2683   system                         149          0.02%
+308    buffet, counter, sideboard     149          0.02%
+2356   shower                         148          0.02%
+1023   fountain                       147          0.02%
+2036   rack                           147          0.02%
+2443   slot machine, coin machine     146          0.02%
+2911   upper sash                     145          0.02%
+286    bread, breadstuff, staff of life 145          0.02%
+944    fireplug, fire hydrant, plug   144          0.02%
+1445   light bulb, lightbulb, bulb, incandescent lamp, electric light, electric-light bulb 143          0.02%
+247    booth, cubicle, stall, kiosk   142          0.02%
+2939   vending machine                142          0.02%
+2127   riser                          140          0.02%
+2567   step                           138          0.02%
+1282   hovel, hut, hutch, shack, shanty 138          0.02%
+1941   pond                           137          0.02%
+1740   pallet                         135          0.02%
+2852   tread                          133          0.02%
+1986   pottery, clayware              133          0.02%
+2462   soap                           129          0.02%
+3102   jersey, t-shirt, tee shirt     127          0.02%
+839    easel                          127          0.02%
+594    console table, console         126          0.02%
+2574   stick                          126          0.02%
+2374   side pocket                    125          0.02%
+373    candelabrum, candelabra        124          0.02%
+2800   tomb                           124          0.02%
+423    casing                         123          0.02%
+709    decoration, ornament, ornamentation 123          0.02%
+490    chest                          122          0.02%
+2739   tent, collapsible shelter      122          0.02%
+1882   pipe                           121          0.02%
+1403   landing gear                   120          0.02%
+2704   tank, storage tank             120          0.02%
+2254   screen, silver screen, projection screen 118          0.02%
+1461   lock                           117          0.02%
+2228   saucepan                       115          0.02%
+1186   hanger                         114          0.02%
+2526   stage                          113          0.02%
+1963   postbox, mailbox, letter box   112          0.02%
+818    dummy                          112          0.02%
+342    buttons                        111          0.02%
+418    cart                           111          0.02%
+2840   train, railroad train          110          0.02%
+1924   platform                       108          0.02%
+1202   hay                            105          0.02%
+832    earmuffs                       104          0.02%
+1151   guitar                         104          0.02%
+859    entrance                       104          0.02%
+2566   stem                           104          0.02%
+2824   towel rack, towel horse        103          0.02%
+2422   skylight, fanlight             103          0.02%
+2782   toaster                        103          0.02%
+2185   runway                         103          0.02%
+256    bouquet, corsage, posy, nosegay 102          0.02%
+2877   trouser, pant                  101          0.02%
+1304   ice, water ice                 100          0.02%
+112    balustrade                     100          0.02%
+2005   price tag                      100          0.02%
+642    cradle                         99           0.02%
+65     ashtray                        99           0.02%
+2007   printer                        99           0.02%
+2727   telephone booth, phone booth, call box, telephone box, telephone kiosk 99           0.02%
+877    exhibitor                      99           0.02%
+1714   pack                           97           0.02%
+2490   spectacles, specs, eyeglasses, glasses 96           0.02%
+2235   scaffolding, staging           96           0.02%
+2661   sweater, jumper                95           0.02%
+1769   paper towel                    95           0.02%
+175    bell                           92           0.01%
+1386   label, recording label         92           0.01%
+2418   skull                          91           0.01%
+2375   side rail                      90           0.01%
+544    clouds                         89           0.01%
+1652   net                            89           0.01%
+738    dirt track                     88           0.01%
+2115   rifle                          88           0.01%
+2615   streetcar, tram, tramcar, trolley, trolley car 86           0.01%
+3067   wire, conducting wire          86           0.01%
+662    cross                          85           0.01%
+2668   swimming pool, swimming bath, natatorium 85           0.01%
+2381   sill                           84           0.01%
+2464   soap dish                      83           0.01%
+3111   sailboat, sailing boat         83           0.01%
+2523   stabilizer                     83           0.01%
+925    file, file cabinet, filing cabinet 83           0.01%
+160    beacon, lighthouse, beacon light, pharos 82           0.01%
+1013   footbridge, overcrossing, pedestrian bridge 82           0.01%
+1062   garage door                    82           0.01%
+1508   mast                           81           0.01%
+2160   rope                           79           0.01%
+868    escalator, moving staircase, moving stairway 78           0.01%
+2714   tapestry, tapis                78           0.01%
+1655   newspaper, paper               78           0.01%
+609    conveyer belt, conveyor belt, conveyer, conveyor, transporter 78           0.01%
+1140   grille                         78           0.01%
+194    billboard, hoarding            77           0.01%
+426    casserole                      76           0.01%
+1072   gas cap                        74           0.01%
+1479   lumber, timber                 74           0.01%
+49     arcade, colonnade              73           0.01%
+202    blackboard, chalkboard         73           0.01%
+565    coffee cup                     71           0.01%
+2337   ship                           71           0.01%
+214    block                          71           0.01%
+6      ad, advertisement, advertizement, advertising, advertizing, advert 70           0.01%
+889    fabric, cloth, material, textile 70           0.01%
+938    fire escape                    70           0.01%
+1393   lake                           70           0.01%
+939    fire extinguisher, extinguisher, asphyxiator 69           0.01%
+743    dish, dish aerial, dish antenna, saucer 69           0.01%
+1670   numeral, number                69           0.01%
+3482   rowing                         69           0.01%
+296    briefcase                      68           0.01%
+2218   sandal                         68           0.01%
+229    bollard                        68           0.01%
+59     armrest                        67           0.01%
+813    duck                           67           0.01%
+1181   handle, grip, handgrip, hold   66           0.01%
+1849   piano, pianoforte, forte-piano 66           0.01%
+1119   grand piano, grand             66           0.01%
+2641   sun                            66           0.01%
+2012   projector                      66           0.01%
+725    desk chair                     66           0.01%
+1493   manchette                      65           0.01%
+853    elevator, lift                 63           0.01%
+1885   pipe, tube                     63           0.01%
+867    equipment                      63           0.01%
+2080   receiver                       62           0.01%
+658    crock                          62           0.01%
+79     baby buggy, baby carriage, carriage, perambulator, pram, stroller, go-cart, pushchair, pusher 62           0.01%
+1272   hot tub                        62           0.01%
+300    brush                          61           0.01%
+2362   shower stall, shower bath      60           0.01%
+1560   mineral                        60           0.01%
+366    camera, photographic camera    59           0.01%
+631    court                          59           0.01%
+3101   carapace, shell, cuticle, shield 58           0.01%
+1911   planter                        58           0.01%
+145    basket, basketball hoop, hoop  58           0.01%
+3195   school desk                    57           0.01%
+1889   piston                         56           0.01%
+1600   motor                          56           0.01%
+533    closet                         56           0.01%
+356    cactus                         56           0.01%
+1767   paper roll                     55           0.01%
+1857   pier                           55           0.01%
+52     arch, archway                  55           0.01%
+3060   wing                           55           0.01%
+1541   metal shutters                 55           0.01%
+1039   frying pan                     54           0.01%
+1051   fuselage                       54           0.01%
+1614   mousepad, mouse mat            54           0.01%
+326    bus stop                       53           0.01%
+422    cash register, register        52           0.01%
+108    balloon                        52           0.01%
+2875   trophy, prize                  51           0.01%
+1425   lectern                        51           0.01%
+2179   ruins                          51           0.01%
+404    card                           51           0.01%
+1454   lights                         51           0.01%
+2199   sail                           51           0.01%
+1016   forecourt                      50           0.01%
+2838   trailer                        50           0.01%
+169    bedpost                        50           0.01%
+141    baseboard, mopboard, skirting board 49           0.01%
+1343   island                         49           0.01%
+2940   vent                           48           0.01%
+2934   vault                          48           0.01%
+1499   map                            48           0.01%
+574    cold storage                   48           0.01%
+2439   sliding door                   47           0.01%
+1371   keys                           47           0.01%
+983    flusher                        46           0.01%
+2884   trunk                          46           0.01%
+2570   steps                          46           0.01%
+2742   terrace                        46           0.01%
+754    display window, shop window, shopwindow, show window 45           0.01%
+383    cane                           45           0.01%
+1505   mask                           45           0.01%
+1231   helmet                         44           0.01%
+134    barrier                        44           0.01%
+727    desk organizer                 44           0.01%
+3144   aircraft carrier, carrier, flattop, attack aircraft carrier 44           0.01%
+361    calendar                       43           0.01%
+843    eiderdown, duvet, continental quilt 43           0.01%
+1274   hotplate                       43           0.01%
+2175   rubbish, trash, scrap          43           0.01%
+1546   mezzanine, first balcony       43           0.01%
+2687   table football                 43           0.01%
+277    branch                         42           0.01%
+2436   slide                          42           0.01%
+2649   support                        42           0.01%
+3020   wave                           42           0.01%
+1188   hangers                        42           0.01%
+387    cannon                         42           0.01%
+3063   wiper                          42           0.01%
+1543   meter                          41           0.01%
+822    dvd                            41           0.01%
+1384   label                          40           0.01%
+2893   turbine engine                 40           0.01%
+2210   saltcellar                     40           0.01%
+382    candy, confect                 40           0.01%
+3384   whitewater                     40           0.01%
+1513   mattress                       39           0.01%
+1914   plaque                         39           0.01%
+107    ball, globe, orb               39           0.01%
+503    chopping board, cutting board  39           0.01%
+740    dish rack                      39           0.01%
+929    finger                         39           0.01%
+702    deck                           39           0.01%
+2964   violin                         39           0.01%
+182    berth                          39           0.01%
+2449   smoke                          39           0.01%
+2936   vegetables                     39           0.01%
+2732   television camera              39           0.01%
+1189   hanging clothes                39           0.01%
+559    cockpit                        38           0.01%
+2892   tunnel                         38           0.01%
+1852   pictures                       38           0.01%
+1517   meat                           38           0.01%
+827    dvds                           38           0.01%
+537    clothes hanging                37           0.01%
+1927   playground                     37           0.01%
+301    brushes                        37           0.01%
+2774   tins                           37           0.01%
+3073   wood                           37           0.01%
+374    candies                        37           0.01%
+1232   hen, biddy                     37           0.01%
+851    elevator door                  37           0.01%
+2894   tureen                         37           0.01%
+992    folders                        36           0.01%
+1299   ice maker                      36           0.01%
+1001   food processor                 36           0.01%
+225    body                           36           0.01%
+1486   magazine rack                  36           0.01%
+2060   railway                        36           0.01%
+2347   shop, store                    36           0.01%
+3088   workbench                      36           0.01%
+1891   pitch                          36           0.01%
+1161   hair dryer                     36           0.01%
+2889   tumble dryer                   36           0.01%
+688    curtains                       36           0.01%
+1951   porch                          36           0.01%
+552    coat                           35           0.01%
+213    blinds                         35           0.01%
+2239   scarf                          35           0.01%
+2225   sash lock                      35           0.01%
+2517   sprinkler                      35           0.01%
+1229   helicopter                     35           0.01%
+2246   scoreboard                     35           0.01%
+2188   sacks                          35           0.01%
+1141   grille door                    35           0.01%
+608    controls                       35           0.01%
+1305   iceberg                        35           0.01%
+1943   pool                           34           0.01%
+2047   radio                          34           0.01%
+1424   leaves                         34           0.01%
+463    ceramic box                    34           0.01%
+1262   hook                           34           0.01%
+2769   tile                           34           0.01%
+2028   pylon, power pylon             34           0.01%
+2734   television stand               34           0.01%
+1215   headphones                     34           0.01%
+50     arcades                        34           0.01%
+2600   straw                          34           0.01%
+540    clothespin                     34           0.01%
+63     artificial golf green          34           0.01%
+188    bidet                          33           0.01%
+997    folding screen                 33           0.01%
+736    diploma                        33           0.01%
+1267   hose                           33           0.01%
+1159   h-stretcher                    33           0.01%
+753    display board                  33           0.01%
+1647   necklace                       33           0.01%
+1463   lockers                        33           0.01%
+1724   paddle                         33           0.01%
+2680   swmming pool                   32           0.01%
+2123   ring                           32           0.01%
+2324   sheep                          32           0.01%
+2926   valley, vale                   32           0.01%
+2440   slipper                        31           0.00%
+210    blender                        31           0.00%
+1470   logo                           31           0.00%
+1587   monument                       31           0.00%
+2020   pumpkin                        31           0.00%
+2355   shovel                         31           0.00%
+444    cds                            31           0.00%
+612    cookies                        31           0.00%
+1657   niche                          31           0.00%
+2539   stands                         31           0.00%
+2442   slope                          31           0.00%
+265    bowls                          31           0.00%
+1199   hatchery                       31           0.00%
+2613   street sign                    31           0.00%
+132    barrels                        31           0.00%
+2811   toothbrush                     30           0.00%
+251    bottle rack                    30           0.00%
+357    cage                           30           0.00%
+2149   roll                           30           0.00%
+1483   machinery                      30           0.00%
+1509   mat                            30           0.00%
+1905   planks                         30           0.00%
+784    drain                          30           0.00%
+2187   sack                           30           0.00%
+2267   seagull                        30           0.00%
+708    decor                          30           0.00%
+2830   track                          30           0.00%
+975    floor spotlight                30           0.00%
+398    car scrapping                  30           0.00%
+2745   test                           29           0.00%
+1129   grating                        29           0.00%
+2334   shelter                        29           0.00%
+299    broom                          29           0.00%
+349    cabin                          29           0.00%
+2282   security camera                29           0.00%
+3010   water tower                    29           0.00%
+2692   table tennis                   29           0.00%
+288    breads                         29           0.00%
+3467   fabrics                        29           0.00%
+464    ceramic pot                    28           0.00%
+2827   towel ring                     28           0.00%
+887    fabric                         28           0.00%
+2108   ride                           28           0.00%
+2019   pulpit                         28           0.00%
+1301   ice rink                       28           0.00%
+1482   machine gun                    28           0.00%
+402    caravan                        28           0.00%
+2688   table game                     28           0.00%
+2213   sand dune                      28           0.00%
+2962   vineyard                       28           0.00%
+825    dvd player                     28           0.00%
+3160   landing track                  28           0.00%
+2786   toilet brush                   27           0.00%
+917    figure                         27           0.00%
+2510   spotlights                     27           0.00%
+283    bread rolls                    27           0.00%
+965    float                          27           0.00%
+260    bowling alley                  27           0.00%
+1643   napkin ring                    27           0.00%
+1449   light switches                 27           0.00%
+1945   pool balls                     27           0.00%
+2702   tank lid                       26           0.00%
+995    folding door                   26           0.00%
+44     aqueduct                       26           0.00%
+610    cooker                         26           0.00%
+909    fender                         26           0.00%
+2072   ramp                           26           0.00%
+1664   notepad                        26           0.00%
+1672   nuts                           26           0.00%
+1295   ice floe, floe                 26           0.00%
+1554   mill                           26           0.00%
+1196   harp                           26           0.00%
+849    elephant                       26           0.00%
+2039   racket                         25           0.00%
+2351   shops                          25           0.00%
+1934   podium                         25           0.00%
+1368   key                            25           0.00%
+2736   tennis court                   25           0.00%
+2017   puddle                         25           0.00%
+1521   meat piece                     25           0.00%
+698    dam                            25           0.00%
+2950   video                          25           0.00%
+3269   teddy                          25           0.00%
+1209   head rail                      24           0.00%
+1572   mobile                         24           0.00%
+2315   shanties                       24           0.00%
+1792   pavilion                       24           0.00%
+607    control tower                  24           0.00%
+482    check-in-desk                  24           0.00%
+779    doors                          24           0.00%
+410    carousel                       24           0.00%
+2636   sugar bowl                     24           0.00%
+1529   menu                           24           0.00%
+414    carport                        24           0.00%
+1576   model                          24           0.00%
+493    chicken                        24           0.00%
+2715   target                         24           0.00%
+1959   post light                     24           0.00%
+2379   sign                           23           0.00%
+1745   pan                            23           0.00%
+352    cable                          23           0.00%
+3037   wheelchair                     23           0.00%
+3036   wheelbarrow                    23           0.00%
+2529   staircase                      23           0.00%
+2754   thermostat                     23           0.00%
+693    cutlery                        23           0.00%
+2967   visor                          23           0.00%
+1679   office partition               23           0.00%
+2103   revolving door                 23           0.00%
+3451   train tracks                   23           0.00%
+2779   tissue                         22           0.00%
+2470   sockets                        22           0.00%
+2494   spice rack                     22           0.00%
+945    firewood                       22           0.00%
+317    bulldozer                      22           0.00%
+246    booth                          22           0.00%
+1103   goal                           22           0.00%
+2626   structure                      22           0.00%
+2832   tractor                        22           0.00%
+1580   molding                        22           0.00%
+39     apple                          22           0.00%
+1964   postcard                       22           0.00%
+2682   synthesizer                    22           0.00%
+2416   skittle alley                  22           0.00%
+501    chocolate                      22           0.00%
+922    file cabinet                   22           0.00%
+1908   plant pots                     22           0.00%
+2803   tongs                          22           0.00%
+3030   weights                        22           0.00%
+1415   lava                           22           0.00%
+2398   skeleton                       22           0.00%
+1782   parterre                       22           0.00%
+2168   roundabout                     22           0.00%
+2970   voting booth                   22           0.00%
+489    chess                          21           0.00%
+857    embrasure                      21           0.00%
+963    flip flop                      21           0.00%
+2022   punching bag                   21           0.00%
+93     badge                          21           0.00%
+1462   locker                         21           0.00%
+1111   golf club                      21           0.00%
+2217   sand trap                      21           0.00%
+1826   pepper shaker                  21           0.00%
+2086   recycling bin                  21           0.00%
+1790   patio, terrace                 21           0.00%
+649    crate                          21           0.00%
+3262   kitchen                        21           0.00%
+1156   gutter                         20           0.00%
+2428   slats                          20           0.00%
+1734   paintbrush                     20           0.00%
+2242   scissors                       20           0.00%
+292    brick                          20           0.00%
+1741   pallets                        20           0.00%
+2678   switches                       20           0.00%
+2744   terraces                       20           0.00%
+1444   light bulb                     20           0.00%
+2533   stalactite                     20           0.00%
+2746   test tube                      20           0.00%
+125    barbecue                       20           0.00%
+871    excavator                      20           0.00%
+1200   hats                           20           0.00%
+2915   utensils                       20           0.00%
+1347   jam                            20           0.00%
+2765   ticket window                  20           0.00%
+339    button                         19           0.00%
+1336   interior casing                19           0.00%
+430    cat                            19           0.00%
+2540   stapler                        19           0.00%
+1754   pantry                         19           0.00%
+1020   forklift                       19           0.00%
+221    boards                         19           0.00%
+1003   foodstuffs                     19           0.00%
+835    earrings                       19           0.00%
+886    eyeglasses                     19           0.00%
+1759   paper cups                     19           0.00%
+1776   parking                        19           0.00%
+1113   goods                          19           0.00%
+745    dishes                         19           0.00%
+2194   safety belt                    19           0.00%
+534    closet rod                     19           0.00%
+2145   rocky formation                19           0.00%
+1376   kitchen utensils               19           0.00%
+2400   ski                            19           0.00%
+130    barrel rack                    19           0.00%
+1846   photo machine                  18           0.00%
+2788   toilet paper holder            18           0.00%
+928    filter                         18           0.00%
+375    candle                         18           0.00%
+94     badlands                       18           0.00%
+1288   ice bucket                     18           0.00%
+1895   place card                     18           0.00%
+2294   semidesert ground              18           0.00%
+723    desert                         18           0.00%
+2858   trench                         18           0.00%
+1135   greenhouse                     18           0.00%
+1087   gazebo                         18           0.00%
+2309   sewing machine                 18           0.00%
+1835   petal                          18           0.00%
+2181   rung                           18           0.00%
+990    fog bank                       18           0.00%
+3028   weighbridge                    18           0.00%
+1527   medicines                      18           0.00%
+1808   pelt                           18           0.00%
+154    bathrobe                       17           0.00%
+1015   footrest                       17           0.00%
+840    eaves                          17           0.00%
+3070   wires                          17           0.00%
+771    dolphin                        17           0.00%
+920    file box                       17           0.00%
+390    canvas                         17           0.00%
+1763   paper filer                    17           0.00%
+926    files                          17           0.00%
+2553   steam shovel                   17           0.00%
+1130   gravel                         17           0.00%
+2857   trellis                        17           0.00%
+1695   organ                          17           0.00%
+2349   shopping cart                  17           0.00%
+752    display                        17           0.00%
+2414   skis                           17           0.00%
+1633   music stand                    17           0.00%
+2146   rocky formations               17           0.00%
+2863   tripod                         16           0.00%
+3017   watering can                   16           0.00%
+2601   straw bale                     16           0.00%
+1569   mitten                         16           0.00%
+617    coral                          16           0.00%
+2654   surfboard                      16           0.00%
+2014   propeller                      16           0.00%
+1477   luggage                        16           0.00%
+409    cargo                          16           0.00%
+2151   roller coaster                 16           0.00%
+2670   swing                          16           0.00%
+1330   instrument                     16           0.00%
+2071   rakes                          16           0.00%
+2859   trestle                        16           0.00%
+1720   packet                         16           0.00%
+1789   patio                          16           0.00%
+2541   star                           16           0.00%
+278    branches                       16           0.00%
+238    book stand                     16           0.00%
+264    bowling pins                   16           0.00%
+956    flags                          16           0.00%
+598    containers                     16           0.00%
+937    fire engine                    16           0.00%
+116    bandstand                      16           0.00%
+2993   watchtower                     16           0.00%
+2991   washing machines               16           0.00%
+2996   water chute                    16           0.00%
+2831   tracks                         16           0.00%
+1717   pack of snuff                  16           0.00%
+135    bars                           16           0.00%
+1983   pots                           15           0.00%
+882    extractor fan                  15           0.00%
+2731   telescope                      15           0.00%
+1083   gates                          15           0.00%
+1584   monitors                       15           0.00%
+282    bread roll                     15           0.00%
+2106   ribbon                         15           0.00%
+1922   plateau                        15           0.00%
+379    candy bag                      15           0.00%
+2535   stalagmite                     15           0.00%
+2196   safety rail                    15           0.00%
+545    club                           15           0.00%
+2030   quay                           15           0.00%
+2805   tool                           15           0.00%
+2121   right shoulder                 15           0.00%
+2300   service station                15           0.00%
+1249   hip tiles                      15           0.00%
+456    cells                          15           0.00%
+728    detergent dispenser            15           0.00%
+1877   pineapple                      15           0.00%
+1859   pig                            15           0.00%
+2156   roof rack                      15           0.00%
+2197   safety side                    15           0.00%
+2503   sponge                         14           0.00%
+2983   wallet                         14           0.00%
+767    doll                           14           0.00%
+1404   lantern                        14           0.00%
+2674   switch                         14           0.00%
+2619   stringer                       14           0.00%
+1086   gaze                           14           0.00%
+2278   seating                        14           0.00%
+2761   ticket counter                 14           0.00%
+1938   poles                          14           0.00%
+1915   plastic                        14           0.00%
+173    beer machine                   14           0.00%
+2663   sweatshirts                    14           0.00%
+541    clothing                       14           0.00%
+931    fire                           14           0.00%
+1017   forest                         14           0.00%
+1094   girder                         14           0.00%
+500    chips                          14           0.00%
+498    chip                           14           0.00%
+1253   hobby-horse                    14           0.00%
+1233   henhouse                       14           0.00%
+554    coat rack                      14           0.00%
+640    cows                           14           0.00%
+2301   set of instruments             14           0.00%
+819    dune                           14           0.00%
+1824   pepper                         14           0.00%
+2724   teeth                          14           0.00%
+1725   padlock                        14           0.00%
+106    ball storage                   14           0.00%
+2808   tools                          14           0.00%
+2667   swimming pool ladder           14           0.00%
+2672   swings                         14           0.00%
+1607   mountain pass                  14           0.00%
+133    barricade                      14           0.00%
+2260   scrub                          14           0.00%
+549    coaster                        13           0.00%
+1078   gas station                    13           0.00%
+2690   table runner                   13           0.00%
+1256   hole                           13           0.00%
+932    fire alarm                     13           0.00%
+2021   pumpkins                       13           0.00%
+1259   hood                           13           0.00%
+2482   spade                          13           0.00%
+2628   stuffed animal head            13           0.00%
+1164   hairdresser chair              13           0.00%
+152    bat                            13           0.00%
+1100   glove                          13           0.00%
+2538   stalls                         13           0.00%
+149    baskets                        13           0.00%
+273    bracelet                       13           0.00%
+2693   tablecloth                     13           0.00%
+2471   socks                          13           0.00%
+891    factory                        13           0.00%
+319    bullring                       13           0.00%
+700    dashboard                      13           0.00%
+1218   headstones                     13           0.00%
+1823   pens                           13           0.00%
+2177   rudder                         13           0.00%
+1468   log                            13           0.00%
+718    dental chair                   13           0.00%
+1432   left shoulder                  13           0.00%
+1155   gun                            13           0.00%
+2853   treadmill                      13           0.00%
+1960   post-it                        13           0.00%
+1822   penguin                        13           0.00%
+1435   lemon                          13           0.00%
+1402   landfill                       13           0.00%
+1146   ground desert                  13           0.00%
+1322   inflatable bounce game         13           0.00%
+2957   village                        13           0.00%
+2401   ski lift                       13           0.00%
+2352   shore                          13           0.00%
+3013   water wheel                    13           0.00%
+2323   shed                           13           0.00%
+2161   rope bridge                    13           0.00%
+1501   margarine                      13           0.00%
+1795   paving stone                   13           0.00%
+1511   material rolls                 13           0.00%
+3015   waterfall                      13           0.00%
+3491   rubber boat                    13           0.00%
+3613   bunch grapes                   13           0.00%
+2512   spray                          12           0.00%
+1338   iron                           12           0.00%
+2546   stationary bicycle             12           0.00%
+1473   loudspeaker                    12           0.00%
+1030   fringe                         12           0.00%
+240    bookend                        12           0.00%
+1064   garbage                        12           0.00%
+2696   tables                         12           0.00%
+960    flask                          12           0.00%
+2357   shower curtain                 12           0.00%
+377    candles                        12           0.00%
+1354   joist                          12           0.00%
+1203   hay bale                       12           0.00%
+322    buoy                           12           0.00%
+2534   stalactites                    12           0.00%
+1397   lamp housing                   12           0.00%
+2801   tombs                          12           0.00%
+190    big top                        12           0.00%
+2846   trash bag                      12           0.00%
+2686   table cloth                    12           0.00%
+1920   plate mat                      12           0.00%
+1006   foot rest                      12           0.00%
+1550   microscope                     12           0.00%
+1642   napkin rack                    12           0.00%
+2778   tires                          12           0.00%
+572    coffin                         12           0.00%
+1310   igloo                          12           0.00%
+2798   tomato                         12           0.00%
+1870   pillows                        12           0.00%
+1940   poncho                         12           0.00%
+1324   inflatable glove               12           0.00%
+1596   mosque                         12           0.00%
+2795   toll booth                     12           0.00%
+511    cigar box                      12           0.00%
+1716   pack of cigarettes             12           0.00%
+2391   sinks                          12           0.00%
+2062   railway tie                    12           0.00%
+2232   savanna                        12           0.00%
+3175   cloudy sky                     12           0.00%
+2933   vases                          11           0.00%
+459    centerpiece                    11           0.00%
+344    buttress                       11           0.00%
+735    digital clock                  11           0.00%
+2268   seal                           11           0.00%
+1778   parking lot                    11           0.00%
+1316   index cards                    11           0.00%
+1730   paint brushes                  11           0.00%
+360    calculator                     11           0.00%
+2327   sheet                          11           0.00%
+2825   towel radiator                 11           0.00%
+2068   rainbow                        11           0.00%
+1399   lampshade                      11           0.00%
+2173   rubber ring                    11           0.00%
+602    control panel                  11           0.00%
+862    entry phone                    11           0.00%
+1170   ham                            11           0.00%
+2753   thermos                        11           0.00%
+432    catwalk                        11           0.00%
+434    cave                           11           0.00%
+2203   salt                           11           0.00%
+3074   wood art                       11           0.00%
+2338   shipyard                       11           0.00%
+1110   golf cart                      11           0.00%
+2630   stump                          11           0.00%
+699    dartboard                      11           0.00%
+810    drums                          11           0.00%
+2500   sping                          11           0.00%
+1722   pad                            11           0.00%
+1302   ice shelf                      11           0.00%
+2783   toaster oven                   11           0.00%
+1552   milestone                      11           0.00%
+2220   sandbox                        11           0.00%
+2949   viaduct                        11           0.00%
+5      acropolis                      11           0.00%
+2776   tire                           11           0.00%
+2735   temple                         11           0.00%
+2930   vanity                         10           0.00%
+635    cover curtain                  10           0.00%
+1418   leaf                           10           0.00%
+2469   socket                         10           0.00%
+2409   skimmer                        10           0.00%
+2245   score                          10           0.00%
+33     antler                         10           0.00%
+685    curtain cover                  10           0.00%
+508    christmas tree                 10           0.00%
+908    fences                         10           0.00%
+293    bricks                         10           0.00%
+1873   pinball                        10           0.00%
+893    fairground ride                10           0.00%
+912    ferris wheel                   10           0.00%
+1014   footpath                       10           0.00%
+1523   mechanical shovel              10           0.00%
+2247   scotch tape                    10           0.00%
+1163   hairbrush                      10           0.00%
+395    cape                           10           0.00%
+2572   stereo                         10           0.00%
+1673   oar                            10           0.00%
+315    bull                           10           0.00%
+3091   wreath                         10           0.00%
+671    cubicles                       10           0.00%
+2070   rake                           10           0.00%
+406    card table                     10           0.00%
+1217   headstone cross                10           0.00%
+1383   lab bench                      10           0.00%
+1066   garland                        10           0.00%
+985    flyer                          10           0.00%
+3027   weeds                          10           0.00%
+2184   runner cloth                   10           0.00%
+2914   urn                            10           0.00%
+1561   miniature chair                10           0.00%
+873    exercise bike                  10           0.00%
+397    caps                           10           0.00%
+2844   transformer                    10           0.00%
+358    cages                          10           0.00%
+3033   wheat                          10           0.00%
+1390   labyrinth                      10           0.00%
+1996   power point                    10           0.00%
+2695   tableland                      10           0.00%
+2768   tiger                          10           0.00%
+1780   parking place                  10           0.00%
+2371   shutters                       10           0.00%
+268    box office, ticket office, ticket booth 10           0.00%
+955    flag pole                      10           0.00%
+1675   observatory                    10           0.00%
+2176   rubble                         10           0.00%
+1942   pond water                     10           0.00%
+1421   leather                        10           0.00%
+2758   throne                         10           0.00%
+3194   white board                    10           0.00%
+3584   flower basket                  10           0.00%
+143    basin                          9            0.00%
+570    coffee pot                     9            0.00%
+2511   spout                          9            0.00%
+1684   oil lamp                       9            0.00%
+684    curtain                        9            0.00%
+48     arcade machines                9            0.00%
+1246   hillside                       9            0.00%
+1597   moss                           9            0.00%
+1738   palette                        9            0.00%
+3072   wok                            9            0.00%
+679    cups                           9            0.00%
+121    baptismal font                 9            0.00%
+2363   shower tray                    9            0.00%
+1138   grill                          9            0.00%
+2992   watch                          9            0.00%
+863    envelope                       9            0.00%
+185    bicycle rack                   9            0.00%
+2190   saddle                         9            0.00%
+705    deck chairs                    9            0.00%
+372    canal                          9            0.00%
+2274   seat belt                      9            0.00%
+2802   tombstones                     9            0.00%
+384    canes                          9            0.00%
+2133   roads                          9            0.00%
+2322   shawl                          9            0.00%
+3009   water surf                     9            0.00%
+355    cables                         9            0.00%
+751    dispenser                      9            0.00%
+592    confessional booth             9            0.00%
+2784   toe board                      9            0.00%
+3071   witness stand                  9            0.00%
+636    covered bridge                 9            0.00%
+1834   pet dish                       9            0.00%
+941    fire utensils                  9            0.00%
+2508   sports bag                     9            0.00%
+852    elevator doors                 9            0.00%
+2958   vine                           9            0.00%
+2599   strainer                       9            0.00%
+477    chalk                          9            0.00%
+1863   pigeonhole                     9            0.00%
+2147   rocky wall                     9            0.00%
+654    creamer                        9            0.00%
+280    bread box                      9            0.00%
+2421   skylight                       9            0.00%
+2799   tomatoes                       9            0.00%
+2429   sled                           9            0.00%
+777    doorbell                       9            0.00%
+87     backdrop                       9            0.00%
+760    diving board                   9            0.00%
+2913   urinal                         9            0.00%
+314    bulbs                          9            0.00%
+2904   umbrellas                      9            0.00%
+1450   light tower                    9            0.00%
+167    bed side                       9            0.00%
+3233   combine harvester              9            0.00%
+947    first floor                    8            0.00%
+899    fax machine                    8            0.00%
+2472   sofa bed                       8            0.00%
+809    drum                           8            0.00%
+529    cloak                          8            0.00%
+1059   gangway                        8            0.00%
+1144   gripper                        8            0.00%
+628    counters                       8            0.00%
+209    bleachers                      8            0.00%
+429    castle                         8            0.00%
+904    fence                          8            0.00%
+1028   freight goods                  8            0.00%
+3090   worktable, work table          8            0.00%
+363    camcorder                      8            0.00%
+80     baby chair                     8            0.00%
+611    cookie                         8            0.00%
+999    font                           8            0.00%
+2587   stools                         8            0.00%
+2359   shower faucet                  8            0.00%
+207    blankets                       8            0.00%
+2448   small table                    8            0.00%
+1309   idol                           8            0.00%
+1443   light                          8            0.00%
+974    floor recessed light           8            0.00%
+901    feeder                         8            0.00%
+2413   skirts                         8            0.00%
+1665   notes                          8            0.00%
+427    cassette                       8            0.00%
+606    control table                  8            0.00%
+1674   obelisk                        8            0.00%
+1814   pencil                         8            0.00%
+1588   moon                           8            0.00%
+701    decanter                       8            0.00%
+2689   table mat                      8            0.00%
+1108   golf bag                       8            0.00%
+1022   fort                           8            0.00%
+2807   toolbox                        8            0.00%
+1871   pilon                          8            0.00%
+2576   sticks                         8            0.00%
+2796   toll gate                      8            0.00%
+2073   ranch                          8            0.00%
+528    clipboard                      8            0.00%
+553    coat of arms                   8            0.00%
+3075   wood blocks                    8            0.00%
+2583   stone ball                     8            0.00%
+364    camel                          8            0.00%
+124    bar lift                       8            0.00%
+2360   shower room                    8            0.00%
+726    desk mat                       8            0.00%
+1283   howdah                         8            0.00%
+830    dye                            8            0.00%
+3019   waterway                       8            0.00%
+1114   goose                          8            0.00%
+655    creeper                        8            0.00%
+2424   skyscrapers                    8            0.00%
+2524   stables                        8            0.00%
+2891   tundra                         8            0.00%
+250    bottle pack                    8            0.00%
+3181   puf                            8            0.00%
+3213   name                           8            0.00%
+3370   sky scraper                    8            0.00%
+3438   blueberry                      8            0.00%
+3595   japanese lantern               8            0.00%
+521    clamp                          7            0.00%
+1342   ironing board                  7            0.00%
+2373   side jamb                      7            0.00%
+1719   packages                       7            0.00%
+1410   latch                          7            0.00%
+2752   thermometer                    7            0.00%
+2977   walkway                        7            0.00%
+2018   pulley                         7            0.00%
+593    console                        7            0.00%
+1126   grassland                      7            0.00%
+970    floodlight                     7            0.00%
+1985   potters wheel                  7            0.00%
+407    cardboard                      7            0.00%
+1955   portable fridge                7            0.00%
+279    bread basket                   7            0.00%
+2997   water cooler                   7            0.00%
+2286   security door                  7            0.00%
+519    cistern, water tank            7            0.00%
+3054   window scarf                   7            0.00%
+2927   valve                          7            0.00%
+584    comforter                      7            0.00%
+1692   orange                         7            0.00%
+1894   placard                        7            0.00%
+942    fireplace utensils             7            0.00%
+3032   well                           7            0.00%
+1878   pinecone                       7            0.00%
+186    bicycle racks                  7            0.00%
+823    dvd box                        7            0.00%
+690    cushions                       7            0.00%
+262    bowling ball return            7            0.00%
+2162   ropes                          7            0.00%
+51     arch                           7            0.00%
+1514   mausoleum                      7            0.00%
+841    egg                            7            0.00%
+177    belt                           7            0.00%
+1512   materials                      7            0.00%
+2059   rails                          7            0.00%
+172    bedspring                      7            0.00%
+2707   tanks                          7            0.00%
+2907   undergrowth                    7            0.00%
+1739   palisade                       7            0.00%
+2984   walrus                         7            0.00%
+801    drift ice                      7            0.00%
+1365   kennel                         7            0.00%
+2139   rocker                         7            0.00%
+1464   lockgate                       7            0.00%
+1124   graphic equalizer              7            0.00%
+579    columbarium niche              7            0.00%
+2455   snowboard                      7            0.00%
+305    bud                            7            0.00%
+923    file cabinets                  7            0.00%
+2459   snowy                          7            0.00%
+1574   mobile home                    7            0.00%
+2098   remains                        7            0.00%
+1312   incense                        7            0.00%
+1053   game                           7            0.00%
+674    cue rack                       7            0.00%
+2425   skywalk                        7            0.00%
+2410   skip                           7            0.00%
+3193   rocky ground                   7            0.00%
+3258   sausage                        7            0.00%
+3296   aircraft                       7            0.00%
+3511   id                             7            0.00%
+2441   slippers                       6            0.00%
+197    binoculars                     6            0.00%
+1452   lighter                        6            0.00%
+1836   petrol pump                    6            0.00%
+3029   weight                         6            0.00%
+2629   stuffed head                   6            0.00%
+162    beams                          6            0.00%
+3117   playing field, athletic field, playing area, field 6            0.00%
+1718   package                        6            0.00%
+2625   strongroom                     6            0.00%
+2923   vacuum cleaner                 6            0.00%
+3059   wine rack                      6            0.00%
+1162   hair spray                     6            0.00%
+993    folding chair                  6            0.00%
+257    bow                            6            0.00%
+2358   shower door                    6            0.00%
+799    dressing table                 6            0.00%
+217    blusher brush                  6            0.00%
+72     auxiliary trolley              6            0.00%
+2951   video camera                   6            0.00%
+2609   street lights                  6            0.00%
+328    buses                          6            0.00%
+199    birdcage                       6            0.00%
+1026   freezer                        6            0.00%
+1471   logs                           6            0.00%
+2947   vessel                         6            0.00%
+1171   hammer                         6            0.00%
+189    bidon                          6            0.00%
+216    blouse                         6            0.00%
+1813   pen set                        6            0.00%
+2325   sheep pen                      6            0.00%
+666    cruet                          6            0.00%
+211    blind                          6            0.00%
+1926   platter                        6            0.00%
+1412   lattice                        6            0.00%
+1277   house number                   6            0.00%
+3045   wig                            6            0.00%
+2393   skate                          6            0.00%
+1109   golf ball                      6            0.00%
+2621   stripe                         6            0.00%
+1289   ice cone                       6            0.00%
+1727   pagoda                         6            0.00%
+1352   jetty                          6            0.00%
+1392   ladle                          6            0.00%
+1004   foot                           6            0.00%
+1067   garlic                         6            0.00%
+1570   mixer                          6            0.00%
+800    dried herbs                    6            0.00%
+1688   onion                          6            0.00%
+1095   glacier                        6            0.00%
+1458   litter basket                  6            0.00%
+3079   woodcarving                    6            0.00%
+562    coconut                        6            0.00%
+842    eggs                           6            0.00%
+435    cave entrance                  6            0.00%
+711    decorative glass               6            0.00%
+599    contrabass                     6            0.00%
+2209   salt shaker                    6            0.00%
+520    city                           6            0.00%
+2402   ski lift cabin                 6            0.00%
+263    bowling pin                    6            0.00%
+2659   swamp                          6            0.00%
+2241   schoolyard                     6            0.00%
+2227   sauce                          6            0.00%
+2987   warship                        6            0.00%
+307    buffet                         6            0.00%
+2382   silo                           6            0.00%
+2261   scrubland                      6            0.00%
+1459   livestock                      6            0.00%
+2518   square                         6            0.00%
+2221   sandpit                        6            0.00%
+2111   rider                          6            0.00%
+2607   street box                     6            0.00%
+1290   ice cream                      6            0.00%
+1654   newspaper stand                6            0.00%
+1050   furrow                         6            0.00%
+653    cream tube                     6            0.00%
+3319   division                       6            0.00%
+3418   baseball field                 6            0.00%
+3458   pear                           6            0.00%
+3539   separator                      6            0.00%
+3542   tupper                         6            0.00%
+3627   pickle                         6            0.00%
+1434   legs                           5            0.00%
+2083   record player                  5            0.00%
+522    clamp lamp                     5            0.00%
+2720   tassle                         5            0.00%
+2772   tilt wand                      5            0.00%
+2972   wagon                          5            0.00%
+2255   screens                        5            0.00%
+2305   sewer                          5            0.00%
+1721   packets                        5            0.00%
+1774   park                           5            0.00%
+1710   overhang                       5            0.00%
+989    fog                            5            0.00%
+837    earth                          5            0.00%
+1257   hole puncher                   5            0.00%
+424    casing interior                5            0.00%
+1102   gloves                         5            0.00%
+2287   security door frame            5            0.00%
+2174   rubbish                        5            0.00%
+2771   till                           5            0.00%
+128    barn                           5            0.00%
+148    basketball court               5            0.00%
+652    cream                          5            0.00%
+785    drain pipe                     5            0.00%
+2812   toothpaste                     5            0.00%
+2314   shampoo                        5            0.00%
+156    batting cage                   5            0.00%
+1701   ornaments                      5            0.00%
+1649   necklaces                      5            0.00%
+613    cool box                       5            0.00%
+476    chaise lounge                  5            0.00%
+2450   smoke detector                 5            0.00%
+3026   webcam                         5            0.00%
+1345   jack                           5            0.00%
+1073   gas cylinder                   5            0.00%
+614    cooler                         5            0.00%
+104    ball rack                      5            0.00%
+1084   gateway                        5            0.00%
+2634   subway                         5            0.00%
+2502   spire                          5            0.00%
+911    fern                           5            0.00%
+2222   sandwich                       5            0.00%
+2164   rose window                    5            0.00%
+1423   leave                          5            0.00%
+2741   terminal                       5            0.00%
+2862   tricycle                       5            0.00%
+802    drill                          5            0.00%
+2767   ties                           5            0.00%
+2662   sweatshirt                     5            0.00%
+2353   shorts                         5            0.00%
+1438   lever                          5            0.00%
+1502   marker                         5            0.00%
+75     award                          5            0.00%
+656    crevasse                       5            0.00%
+1300   ice mountain                   5            0.00%
+2214   sand dunes                     5            0.00%
+2635   sugar                          5            0.00%
+1916   plastic cup                    5            0.00%
+885    eyebrow                        5            0.00%
+2204   salt and pepper                5            0.00%
+766    doily                          5            0.00%
+2604   strawberry                     5            0.00%
+958    flame                          5            0.00%
+1358   jug                            5            0.00%
+2710   tape                           5            0.00%
+2999   water ditch                    5            0.00%
+949    fish farm water                5            0.00%
+1286   huts                           5            0.00%
+1018   forge                          5            0.00%
+208    blast furnace                  5            0.00%
+676    cues                           5            0.00%
+1733   paint pot                      5            0.00%
+1890   pit                            5            0.00%
+1921   plate rack                     5            0.00%
+428    cassettes                      5            0.00%
+2289   seedbed                        5            0.00%
+1970   posters                        5            0.00%
+2986   warehouse                      5            0.00%
+1193   hard drive                     5            0.00%
+806    driveway                       5            0.00%
+1294   ice field                      5            0.00%
+1297   ice hockey rink                5            0.00%
+126    barbed wire                    5            0.00%
+775    door bars                      5            0.00%
+1366   kennels                        5            0.00%
+2084   recorder                       5            0.00%
+1353   jewelry display                5            0.00%
+2313   shaker                         5            0.00%
+1269   hot air balloon                5            0.00%
+1216   headrest                       5            0.00%
+388    canoe                          5            0.00%
+2223   santa claus                    5            0.00%
+2206   salt marsh                     5            0.00%
+2623   strips                         5            0.00%
+1676   obstacle                       5            0.00%
+2097   refuge                         5            0.00%
+2029   pyramid                        5            0.00%
+2743   terrace cafe                   5            0.00%
+1535   mesh guard rail                5            0.00%
+331    business cards                 5            0.00%
+1638   nail                           5            0.00%
+2186   runway strip                   5            0.00%
+2552   steam room                     5            0.00%
+233    bones                          5            0.00%
+2056   railroad track                 5            0.00%
+2157   root                           5            0.00%
+717    degree certificate             5            0.00%
+2545   station                        5            0.00%
+2219   sandbar                        5            0.00%
+2284   security checkpoint            5            0.00%
+1097   glass separation               5            0.00%
+2407   ski trail                      5            0.00%
+1506   massage bed                    5            0.00%
+626    cornice                        5            0.00%
+2610   street market                  5            0.00%
+2797   toll plaza                     5            0.00%
+1907   plant box                      5            0.00%
+1258   hollow                         5            0.00%
+3005   water mill                     5            0.00%
+3084   wooden wedge                   5            0.00%
+3163   ceramics                       5            0.00%
+3420   pipelines                      5            0.00%
+3435   debris                         5            0.00%
+3516   electric cable                 5            0.00%
+3545   pork                           5            0.00%
+3560   fishing rod                    5            0.00%
+1828   pergola                        5            0.00%
+3575   earthenware jar                5            0.00%
+1709   overflot plate                 4            0.00%
+144    basket                         4            0.00%
+204    blade, vane                    4            0.00%
+1044   funfair                        4            0.00%
+2564   steering wheel                 4            0.00%
+858    engine                         4            0.00%
+1678   office                         4            0.00%
+99     baggage carts                  4            0.00%
+227    boiler                         4            0.00%
+2701   tallboy                        4            0.00%
+764    dog dish                       4            0.00%
+392    canyon                         4            0.00%
+2165   rotisserie                     4            0.00%
+919    file                           4            0.00%
+2766   tie                            4            0.00%
+1906   plant                          4            0.00%
+3021   waves                          4            0.00%
+437    cd                             4            0.00%
+1046   funnel                         4            0.00%
+951    fish tank                      4            0.00%
+2493   spice jar                      4            0.00%
+304    buckets                        4            0.00%
+816    dumbbell                       4            0.00%
+1061   garage                         4            0.00%
+1143   grinder                        4            0.00%
+1689   onions                         4            0.00%
+1036   fruit stand                    4            0.00%
+2256   screw                          4            0.00%
+2231   sauna                          4            0.00%
+232    bone                           4            0.00%
+672    cue                            4            0.00%
+2405   ski slope                      4            0.00%
+2712   taper                          3            0.00%
+1361   junk                           3            0.00%
+2856   trees                          3            0.00%
+2054   railings                       3            0.00%
+2717   tarp                           3            0.00%
+2903   umbrella stand                 3            0.00%
+1172   hammock                        3            0.00%
+2376   sidewalk                       3            0.00%
+2876   trough                         3            0.00%
+2823   towel paper                    3            0.00%
+451    ceiling recessed light         3            0.00%
+2612   street number                  3            0.00%
+2367   shrub                          3            0.00%
+311    building materials             3            0.00%
+1912   plants                         3            0.00%
+1820   pendant lamp                   2            0.00%
+972    floor                          2            0.00%
+2335   shelves                        2            0.00%
+2130   road                           2            0.00%
+2336   shield                         2            0.00%
+1548   microphone                     2            0.00%
+302    bucket                         2            0.00%
+2681   sword                          2            0.00%
+680    curb                           2            0.00%
+864    envelopes                      2            0.00%
+3150   books                          2            0.00%
+472    chair desk                     2            0.00%
+329    bushes                         2            0.00%
+2144   rocks                          2            0.00%
+1706   outlet                         1            0.00%
+981    fluorescent                    1            0.00%
+34     antlers                        1            0.00%
+2279   seats                          1            0.00%
+3132   light switch                   1            0.00%
+850    elevator                       1            0.00%
+603    control panel, instrument panel, control board, board, panel 1            0.00%
+2240   scarfs                         1            0.00%
+980    flowers                        1            0.00%
+140    baseboard                      1            0.00%
+369    can                            1            0.00%
+2726   telephone                      1            0.00%
+2135   rock                           1            0.00%
+9      aerial                         1            0.00%
+1888   piping                         1            0.00%
+582    columns                        1            0.00%
+3153   buildings                      1            0.00%
+3303   pant                           1            0.00%
+3585   lift                           1            0.00%
+2093   reel                           1            0.00%
+
+Validation Set:
+Total categories: 1625
+Total annotations: 71849
+Warning: Found 4 invalid category IDs: [3105, 3107, 3108, 3109]
+
+Top categories by annotation count:
+ID     Name                           Count      Percentage
+------------------------------------------------------------
+3050   window                         8868        12.34%
+2978   wall                           3105         4.32%
+1831   person, individual, someone, somebody, mortal, soul 2978         4.14%
+774    door                           2205         3.07%
+2855   tree                           2034         2.83%
+312    building, edifice              1992         2.77%
+401    car, auto, automobile, machine, motorcar 1423         1.98%
+471    chair                          1334         1.86%
+1451   light, light source            1241         1.73%
+1910   plant, flora, plant life       1149         1.60%
+1433   leg                            1060         1.48%
+1180   handle                         1046         1.46%
+976    floor, flooring                1008         1.40%
+1206   head                           949          1.32%
+3035   wheel                          909          1.27%
+3055   windowpane, window             880          1.22%
+2420   sky                            845          1.18%
+1735   painting, picture              786          1.09%
+1380   knob                           775          1.08%
+447    ceiling                        770          1.07%
+789    drawer                         757          1.05%
+2380   signboard, sign                730          1.02%
+2684   table                          703          0.98%
+350    cabinet                        695          0.97%
+101    balcony                        600          0.84%
+1746   pane                           561          0.78%
+1395   lamp                           533          0.74%
+2131   road, route                    513          0.71%
+2138   rock, stone                    513          0.71%
+2377   sidewalk, pavement             512          0.71%
+266    box                            499          0.69%
+54     arm                            490          0.68%
+689    cushion                        482          0.67%
+236    book                           467          0.65%
+83     back                           460          0.64%
+249    bottle                         459          0.64%
+2272   seat                           423          0.59%
+2329   shelf                          423          0.59%
+2311   shade                          398          0.55%
+2509   spotlight, spot                382          0.53%
+580    column                         381          0.53%
+1125   grass                          376          0.52%
+687    curtain, drape, drapery, mantle, pall 370          0.51%
+1448   light source                   348          0.48%
+2122   rim                            331          0.46%
+1564   mirror                         316          0.44%
+2700   taillight                      296          0.41%
+2276   seat cushion                   291          0.41%
+1610   mountain, mount                276          0.38%
+1981   pot, flowerpot                 273          0.38%
+1213   headlight                      268          0.37%
+1238   highlight                      262          0.36%
+978    flower                         260          0.36%
+1439   license plate                  258          0.36%
+838    earth, ground                  257          0.36%
+2155   roof                           252          0.35%
+1869   pillow                         243          0.34%
+2814   top                            242          0.34%
+165    bed                            241          0.34%
+1936   pole                           231          0.32%
+884    eye                            229          0.32%
+1098   glass, drinking glass          222          0.31%
+86     back pillow                    221          0.31%
+907    fence, fencing                 217          0.30%
+2982   wall socket, wall plug, electric outlet, electrical outlet, outlet, electric receptacle 217          0.30%
+581    column, pillar                 215          0.30%
+2370   shutter                        214          0.30%
+1002   food, solid food               212          0.30%
+2117   right arm                      205          0.29%
+1919   plate                          204          0.28%
+2243   sconce                         201          0.28%
+1428   left arm                       200          0.28%
+42     apron                          196          0.27%
+2053   railing, rail                  194          0.27%
+1431   left leg                       194          0.27%
+95     bag                            186          0.26%
+2932   vase                           183          0.25%
+3057   windshield                     182          0.25%
+2120   right leg                      182          0.25%
+136    base                           179          0.25%
+57     armchair                       177          0.25%
+2178   rug, carpet, carpeting         166          0.23%
+181    bench                          166          0.23%
+2833   trade name, brand name, brand, marque 154          0.21%
+982    fluorescent, fluorescent fixture 149          0.21%
+2836   traffic light, traffic signal, stoplight 147          0.20%
+2005   price tag                      141          0.20%
+2388   sink                           140          0.19%
+2473   sofa, couch, lounge            139          0.19%
+495    chimney                        138          0.19%
+1625   muntin                         138          0.19%
+1445   light bulb, lightbulb, bulb, incandescent lamp, electric light, electric-light bulb 138          0.19%
+29     animal, animate being, beast, brute, creature, fauna 137          0.19%
+259    bowl                           135          0.19%
+212    blind, screen                  135          0.19%
+2341   shoe                           133          0.19%
+146    basket, handbasket             132          0.18%
+1974   pot                            129          0.18%
+1615   mouth                          126          0.18%
+1212   headboard                      126          0.18%
+2821   towel                          122          0.17%
+2346   shop window                    122          0.17%
+64     ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin 120          0.17%
+2530   stairs, steps                  119          0.17%
+895    faucet                         119          0.17%
+2052   railing                        119          0.17%
+77     awning, sunshade, sunblind     114          0.16%
+223    boat                           111          0.15%
+1744   palm, palm tree                110          0.15%
+2273   seat base                      110          0.15%
+3087   work surface                   110          0.15%
+1329   inside arm                     109          0.15%
+1276   house                          109          0.15%
+730    dial                           107          0.15%
+954    flag                           106          0.15%
+203    blade                          106          0.15%
+1756   paper                          105          0.15%
+530    clock                          105          0.15%
+2051   rail                           105          0.15%
+2676   switch, electric switch, electrical switch 103          0.14%
+724    desk                           99           0.14%
+2679   swivel chair                   97           0.14%
+2250   screen                         97           0.14%
+1349   jar                            95           0.13%
+103    ball                           94           0.13%
+783    double door                    92           0.13%
+2578   stile                          90           0.13%
+378    candlestick, candle holder     90           0.13%
+2850   tray                           88           0.12%
+2119   right hand                     84           0.12%
+120    bannister, banister, balustrade, balusters, handrail 83           0.12%
+2411   skirt                          83           0.12%
+1346   jacket                         82           0.11%
+1033   fruit                          82           0.11%
+1930   plaything, toy                 81           0.11%
+1969   poster, posting, placard, notice, bill, card 80           0.11%
+571    coffee table, cocktail table   79           0.11%
+2531   stairway, staircase            78           0.11%
+2586   stool                          77           0.11%
+2994   water                          77           0.11%
+371    can, tin, tin can              77           0.11%
+2339   shirt                          77           0.11%
+2928   van                            75           0.10%
+913    field                          74           0.10%
+1788   path                           73           0.10%
+1540   metal shutter                  73           0.10%
+1430   left hand                      72           0.10%
+2820   torso                          72           0.10%
+480    chandelier, pendant, pendent   72           0.10%
+2264   sea                            71           0.10%
+137    base, pedestal, stand          71           0.10%
+1957   post                           70           0.10%
+1024   frame                          70           0.10%
+1563   minibike, motorbike            69           0.10%
+118    banner, streamer               69           0.10%
+776    door frame                     66           0.09%
+1707   outside arm                    66           0.09%
+2617   stretcher                      64           0.09%
+2423   skyscraper                     63           0.09%
+161    beam                           61           0.08%
+2372   side                           60           0.08%
+187    bicycle, bike, wheel, cycle    60           0.08%
+1012   footboard                      59           0.08%
+2884   trunk                          59           0.08%
+2733   television receiver, television, television set, tv, tv set, idiot box, boob tube, telly, goggle box 57           0.08%
+2598   stove, kitchen stove, range, kitchen range, cooking stove 57           0.08%
+1247   hinge                          57           0.08%
+1810   pen                            56           0.08%
+2793   toilet, can, commode, crapper, pot, potty, stool, throne 56           0.08%
+1494   manhole                        54           0.08%
+341    button panel                   54           0.08%
+2880   truck, motortruck              53           0.07%
+491    chest of drawers, chest, bureau, dresser 53           0.07%
+591    computer, computing machine, computing device, data processor, electronic computer, information processing system 53           0.07%
+324    burner                         53           0.07%
+894    fan                            52           0.07%
+1884   pipe, pipage, piping           52           0.07%
+918    figurine, statuette            52           0.07%
+2834   traffic cone                   51           0.07%
+1441   lid                            51           0.07%
+2730   telephone, phone, telephone set 51           0.07%
+2985   wardrobe, closet, press        50           0.07%
+2901   umbrella                       49           0.07%
+1619   mug                            49           0.07%
+1474   loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 49           0.07%
+1708   oven                           49           0.07%
+1485   magazine                       48           0.07%
+313    bulb                           48           0.07%
+1174   hand                           46           0.06%
+10     air conditioner, air conditioning 46           0.06%
+2517   sprinkler                      46           0.06%
+781    dormer                         45           0.06%
+627    counter                        45           0.06%
+1370   keyboard                       45           0.06%
+2224   sash                           45           0.06%
+1551   microwave, microwave oven      45           0.06%
+2096   refrigerator, icebox           45           0.06%
+1429   left foot                      44           0.06%
+1186   hanger                         44           0.06%
+303    bucket, pail                   43           0.06%
+1702   ottoman, pouf, pouffe, puff, hassock 43           0.06%
+1582   monitor                        42           0.06%
+1031   front                          41           0.06%
+625    corner pocket                  41           0.06%
+112    balustrade                     41           0.06%
+1476   lower sash                     40           0.06%
+198    bird                           40           0.06%
+2118   right foot                     39           0.05%
+389    canopy                         39           0.05%
+38     apparel, wearing apparel, dress, clothes 39           0.05%
+1747   pane, pane of glass, window glass 38           0.05%
+155    bathtub, bathing tub, bath, tub 38           0.05%
+943    fireplace, hearth, open fireplace 38           0.05%
+2212   sand                           38           0.05%
+327    bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle 37           0.05%
+96     bag, handbag, pocketbook, purse 37           0.05%
+2569   step, stair                    37           0.05%
+743    dish, dish aerial, dish antenna, saucer 37           0.05%
+239    bookcase                       36           0.05%
+2911   upper sash                     36           0.05%
+92     backplate                      36           0.05%
+55     arm panel                      36           0.05%
+1644   napkin, table napkin, serviette 35           0.05%
+1583   monitor, monitoring device     34           0.05%
+662    cross                          34           0.05%
+2955   videos                         34           0.05%
+1081   gate                           33           0.05%
+791    drawing                        33           0.05%
+36     aperture                       33           0.05%
+1240   hill                           33           0.05%
+206    blanket, cover                 33           0.05%
+682    curb, curbing, kerb            33           0.05%
+320    bumper                         33           0.05%
+629    countertop                     32           0.04%
+242    booklet, brochure, folder, leaflet, pamphlet 32           0.04%
+14     airplane, aeroplane, plane     31           0.04%
+2499   spindle                        31           0.04%
+2886   tube                           31           0.04%
+294    bridge, span                   31           0.04%
+733    diffusor                       31           0.04%
+2877   trouser, pant                  31           0.04%
+2989   washer, automatic washer, washing machine 31           0.04%
+2454   snow                           30           0.04%
+2046   radiator                       30           0.04%
+1896   place mat                      30           0.04%
+2567   step                           30           0.04%
+1232   hen, biddy                     29           0.04%
+665    crosswalk                      29           0.04%
+597    container                      28           0.04%
+220    board, plank                   28           0.04%
+518    cistern                        28           0.04%
+589    computer case                  28           0.04%
+2128   river                          28           0.04%
+2748   text, textual matter           27           0.04%
+1260   hood, exhaust hood             27           0.04%
+2597   stove                          27           0.04%
+948    fish                           26           0.04%
+2262   sculpture                      26           0.04%
+318    bulletin board, notice board   26           0.04%
+461    central reservation            26           0.04%
+3067   wire, conducting wire          26           0.04%
+1892   pitcher, ewer                  25           0.03%
+772    dome                           25           0.03%
+831    ear                            24           0.03%
+843    eiderdown, duvet, continental quilt 24           0.03%
+468    chain                          24           0.03%
+2374   side pocket                    24           0.03%
+2570   steps                          24           0.03%
+944    fireplug, fire hydrant, plug   24           0.03%
+3056   windows                        24           0.03%
+1223   heater, warmer                 23           0.03%
+890    face                           23           0.03%
+747    dishwasher, dish washer, dishwashing machine 23           0.03%
+1963   postbox, mailbox, letter box   23           0.03%
+1646   neck                           22           0.03%
+418    cart                           22           0.03%
+1139   grill, grille, grillwork       22           0.03%
+90     backpack, back pack, knapsack, packsack, rucksack, haversack 22           0.03%
+2443   slot machine, coin machine     22           0.03%
+2547   statue                         22           0.03%
+1461   lock                           22           0.03%
+1197   hat, chapeau, lid              22           0.03%
+247    booth, cubicle, stall, kiosk   22           0.03%
+2723   teapot                         22           0.03%
+1948   pool table, billiard table, snooker table 22           0.03%
+2704   tank, storage tank             21           0.03%
+394    cap                            21           0.03%
+1378   knife                          21           0.03%
+376    candle, taper, wax light       21           0.03%
+2939   vending machine                21           0.03%
+1714   pack                           21           0.03%
+123    bar                            20           0.03%
+2148   rod                            20           0.03%
+2792   toilet tissue, toilet paper, bathroom tissue 20           0.03%
+762    document, written document, papers 20           0.03%
+1407   laptop, laptop computer        20           0.03%
+1611   mouse                          20           0.03%
+677    cup                            20           0.03%
+1690   opening                        20           0.03%
+1391   ladder                         20           0.03%
+1401   land, ground, soil             20           0.03%
+56     arm support                    20           0.03%
+47     arcade machine                 19           0.03%
+97     bag, traveling bag, travelling bag, grip, suitcase 19           0.03%
+2251   screen door, screen            19           0.03%
+1282   hovel, hut, hutch, shack, shanty 19           0.03%
+569    coffee maker                   19           0.03%
+1944   pool ball                      19           0.03%
+2523   stabilizer                     18           0.03%
+3060   wing                           18           0.03%
+396    capital                        18           0.03%
+897    faucet, spigot                 18           0.03%
+2828   tower                          18           0.03%
+1341   iron tubes                     18           0.03%
+2185   runway                         17           0.02%
+1882   pipe                           17           0.02%
+2375   side rail                      17           0.02%
+2312   shaft                          17           0.02%
+2036   rack                           17           0.02%
+2099   remote control, remote         17           0.02%
+342    buttons                        17           0.02%
+2093   reel                           17           0.02%
+277    branch                         17           0.02%
+1791   patty, cake                    16           0.02%
+1279   housing                        16           0.02%
+2950   video                          16           0.02%
+1403   landing gear                   15           0.02%
+1784   partition, divider             15           0.02%
+1121   grandstand, covered stand      15           0.02%
+2893   turbine engine                 15           0.02%
+2356   shower                         15           0.02%
+2465   soap dispenser                 15           0.02%
+2537   stall, stand, sales booth      15           0.02%
+2505   spoon                          15           0.02%
+2683   system                         15           0.02%
+543    cloud                          15           0.02%
+2661   sweater, jumper                15           0.02%
+1019   fork                           15           0.02%
+1633   music stand                    15           0.02%
+339    button                         15           0.02%
+385    canister, cannister, tin       15           0.02%
+1779   parking meter                  15           0.02%
+868    escalator, moving staircase, moving stairway 14           0.02%
+983    flusher                        14           0.02%
+3102   jersey, t-shirt, tee shirt     14           0.02%
+308    buffet, counter, sideboard     14           0.02%
+1849   piano, pianoforte, forte-piano 14           0.02%
+693    cutlery                        14           0.02%
+2662   sweatshirt                     14           0.02%
+1662   notebook                       13           0.02%
+1652   net                            13           0.02%
+420    case, display case, showcase, vitrine 13           0.02%
+2702   tank lid                       13           0.02%
+2080   receiver                       13           0.02%
+618    cord                           13           0.02%
+175    bell                           13           0.02%
+2254   screen, silver screen, projection screen 13           0.02%
+1367   kettle, boiler                 13           0.02%
+1858   pier, wharf, wharfage, dock    13           0.02%
+1202   hay                            13           0.02%
+3016   waterfall, falls               13           0.02%
+1508   mast                           13           0.02%
+2824   towel rack, towel horse        13           0.02%
+1051   fuselage                       12           0.02%
+1659   nose                           12           0.02%
+1709   overflot plate                 12           0.02%
+2007   printer                        12           0.02%
+855    embankment                     12           0.02%
+1131   gravestone, headstone, tombstone 12           0.02%
+245    boot                           12           0.02%
+2094   reels                          12           0.02%
+922    file cabinet                   11           0.02%
+194    billboard, hoarding            11           0.02%
+2362   shower stall, shower bath      11           0.02%
+1600   motor                          11           0.02%
+1576   model                          11           0.02%
+2663   sweatshirts                    11           0.02%
+1371   keys                           11           0.02%
+2071   rakes                          11           0.02%
+675    cue, cue stick, pool cue, pool stick 11           0.02%
+214    block                          11           0.02%
+524    cliff, drop, drop-off          11           0.02%
+2566   stem                           11           0.02%
+426    casserole                      11           0.02%
+373    candelabrum, candelabra        10           0.01%
+939    fire extinguisher, extinguisher, asphyxiator 10           0.01%
+2708   tap                            10           0.01%
+1385   label tag                      10           0.01%
+643    crane                          10           0.01%
+2574   stick                          10           0.01%
+1769   paper towel                    10           0.01%
+2228   saucepan                       10           0.01%
+2381   sill                           10           0.01%
+1140   grille                         10           0.01%
+746    dishrag, dishcloth             10           0.01%
+1924   platform                       10           0.01%
+2600   straw                          10           0.01%
+818    dummy                          10           0.01%
+1533   merchandise, ware, product     10           0.01%
+472    chair desk                     10           0.01%
+839    easel                          9            0.01%
+2526   stage                          9            0.01%
+1013   footbridge, overcrossing, pedestrian bridge 9            0.01%
+382    candy, confect                 9            0.01%
+50     arcades                        9            0.01%
+594    console table, console         9            0.01%
+2727   telephone booth, phone booth, call box, telephone box, telephone kiosk 9            0.01%
+1374   kitchen island                 9            0.01%
+2782   toaster                        9            0.01%
+2421   skylight                       9            0.01%
+65     ashtray                        9            0.01%
+2127   riser                          9            0.01%
+1295   ice floe, floe                 9            0.01%
+1655   newspaper, paper               8            0.01%
+390    canvas                         8            0.01%
+2422   skylight, fanlight             8            0.01%
+609    conveyer belt, conveyor belt, conveyer, conveyor, transporter 8            0.01%
+2047   radio                          8            0.01%
+2615   streetcar, tram, tramcar, trolley, trolley car 8            0.01%
+490    chest                          8            0.01%
+1543   meter                          8            0.01%
+1664   notepad                        8            0.01%
+2213   sand dune                      8            0.01%
+2160   rope                           8            0.01%
+169    bedpost                        8            0.01%
+2203   salt                           8            0.01%
+1915   plastic                        8            0.01%
+326    bus stop                       8            0.01%
+2086   recycling bin                  8            0.01%
+2351   shops                          8            0.01%
+2852   tread                          8            0.01%
+2607   street box                     8            0.01%
+704    deck chair, beach chair        8            0.01%
+500    chips                          8            0.01%
+877    exhibitor                      7            0.01%
+938    fire escape                    7            0.01%
+1729   paint brush                    7            0.01%
+1513   mattress                       7            0.01%
+2022   punching bag                   7            0.01%
+202    blackboard, chalkboard         7            0.01%
+422    cash register, register        7            0.01%
+1889   piston                         7            0.01%
+1158   gym shoe, sneaker, tennis shoe 7            0.01%
+2692   table tennis                   7            0.01%
+366    camera, photographic camera    7            0.01%
+3101   carapace, shell, cuticle, shield 7            0.01%
+752    display                        7            0.01%
+49     arcade, colonnade              7            0.01%
+738    dirt track                     7            0.01%
+642    cradle                         7            0.01%
+132    barrels                        7            0.01%
+1908   plant pots                     7            0.01%
+1162   hair spray                     7            0.01%
+559    cockpit                        6            0.01%
+300    brush                          6            0.01%
+430    cat                            6            0.01%
+2464   soap dish                      6            0.01%
+2885   trunk, tree trunk, bole        6            0.01%
+1272   hot tub                        6            0.01%
+2379   sign                           6            0.01%
+141    baseboard, mopboard, skirting board 6            0.01%
+832    earmuffs                       6            0.01%
+299    broom                          6            0.01%
+2687   table football                 6            0.01%
+1343   island                         6            0.01%
+1299   ice maker                      6            0.01%
+2256   screw                          6            0.01%
+2225   sash lock                      6            0.01%
+1159   h-stretcher                    6            0.01%
+423    casing                         6            0.01%
+1499   map                            6            0.01%
+1493   manchette                      6            0.01%
+1927   playground                     6            0.01%
+1016   forecourt                      6            0.01%
+2714   tapestry, tapis                6            0.01%
+2838   trailer                        6            0.01%
+2674   switch                         6            0.01%
+264    bowling pins                   6            0.01%
+2235   scaffolding, staging           6            0.01%
+3048   wind turbine                   6            0.01%
+893    fairground ride                5            0.01%
+2934   vault                          5            0.01%
+2327   sheet                          5            0.01%
+2462   soap                           5            0.01%
+2337   ship                           5            0.01%
+1509   mat                            5            0.01%
+2012   projector                      5            0.01%
+2641   sun                            5            0.01%
+608    controls                       5            0.01%
+2722   teacup                         5            0.01%
+1384   label                          5            0.01%
+59     armrest                        5            0.01%
+727    desk organizer                 5            0.01%
+1103   goal                           5            0.01%
+210    blender                        5            0.01%
+1393   lake                           5            0.01%
+160    beacon, lighthouse, beacon light, pharos 5            0.01%
+1151   guitar                         5            0.01%
+1463   lockers                        5            0.01%
+108    balloon                        5            0.01%
+2240   scarfs                         5            0.01%
+3144   aircraft carrier, carrier, flattop, attack aircraft carrier 5            0.01%
+1023   fountain                       5            0.01%
+1863   pigeonhole                     5            0.01%
+2612   street number                  5            0.01%
+79     baby buggy, baby carriage, carriage, perambulator, pram, stroller, go-cart, pushchair, pusher 5            0.01%
+859    entrance                       5            0.01%
+1740   pallet                         5            0.01%
+131    barrel, cask                   5            0.01%
+6      ad, advertisement, advertizement, advertising, advertizing, advert 5            0.01%
+2039   racket                         5            0.01%
+1519   meat bags                      5            0.01%
+1397   lamp housing                   5            0.01%
+1111   golf club                      5            0.01%
+402    caravan                        5            0.01%
+1141   grille door                    5            0.01%
+2863   tripod                         5            0.01%
+537    clothes hanging                5            0.01%
+889    fabric, cloth, material, textile 4            0.01%
+1119   grand piano, grand             4            0.01%
+145    basket, basketball hoop, hoop  4            0.01%
+1181   handle, grip, handgrip, hold   4            0.01%
+3073   wood                           4            0.01%
+260    bowling alley                  4            0.01%
+2892   tunnel                         4            0.01%
+1086   gaze                           4            0.01%
+177    belt                           4            0.01%
+2194   safety belt                    4            0.01%
+1249   hip tiles                      4            0.01%
+1657   niche                          4            0.01%
+552    coat                           4            0.01%
+1188   hangers                        4            0.01%
+753    display board                  4            0.01%
+2894   tureen                         4            0.01%
+2690   table runner                   4            0.01%
+992    folders                        4            0.01%
+1229   helicopter                     4            0.01%
+361    calendar                       4            0.01%
+1546   mezzanine, first balcony       4            0.01%
+1365   kennel                         4            0.01%
+1004   foot                           4            0.01%
+265    bowls                          4            0.01%
+2619   stringer                       4            0.01%
+2681   sword                          4            0.01%
+2239   scarf                          4            0.01%
+867    equipment                      4            0.01%
+1945   pool balls                     4            0.01%
+2179   ruins                          4            0.01%
+2217   sand trap                      4            0.01%
+1189   hanging clothes                4            0.01%
+2696   tables                         4            0.01%
+862    entry phone                    4            0.01%
+840    eaves                          4            0.01%
+134    barrier                        4            0.01%
+2889   tumble dryer                   4            0.01%
+2175   rubbish, trash, scrap          4            0.01%
+52     arch, archway                  4            0.01%
+1529   menu                           4            0.01%
+2347   shop, store                    3            0.00%
+2626   structure                      3            0.00%
+1160   hair                           3            0.00%
+631    court                          3            0.00%
+2246   scoreboard                     3            0.00%
+2827   towel ring                     3            0.00%
+2786   toilet brush                   3            0.00%
+1262   hook                           3            0.00%
+172    bedspring                      3            0.00%
+2857   trellis                        3            0.00%
+3088   workbench                      3            0.00%
+238    book stand                     3            0.00%
+2903   umbrella stand                 3            0.00%
+2123   ring                           3            0.00%
+882    extractor fan                  3            0.00%
+392    canyon                         3            0.00%
+3032   well                           3            0.00%
+1695   organ                          3            0.00%
+533    closet                         3            0.00%
+610    cooker                         3            0.00%
+851    elevator door                  3            0.00%
+853    elevator, lift                 3            0.00%
+858    engine                         3            0.00%
+545    club                           3            0.00%
+919    file                           3            0.00%
+2688   table game                     3            0.00%
+2300   service station                3            0.00%
+1304   ice, water ice                 3            0.00%
+375    candle                         3            0.00%
+920    file box                       3            0.00%
+2470   sockets                        3            0.00%
+2511   spout                          3            0.00%
+1039   frying pan                     3            0.00%
+2940   vent                           3            0.00%
+251    bottle rack                    3            0.00%
+357    cage                           3            0.00%
+1647   necklace                       3            0.00%
+1462   locker                         3            0.00%
+2157   root                           3            0.00%
+2398   skeleton                       3            0.00%
+116    bandstand                      3            0.00%
+2450   smoke detector                 3            0.00%
+2926   valley, vale                   3            0.00%
+2060   railway                        3            0.00%
+1614   mousepad, mouse mat            3            0.00%
+1986   pottery, clayware              3            0.00%
+2739   tent, collapsible shelter      3            0.00%
+489    chess                          3            0.00%
+1790   patio, terrace                 3            0.00%
+106    ball storage                   3            0.00%
+2103   revolving door                 3            0.00%
+2168   roundabout                     3            0.00%
+1259   hood                           3            0.00%
+2742   terrace                        3            0.00%
+1587   monument                       3            0.00%
+2668   swimming pool, swimming bath, natatorium 3            0.00%
+3028   weighbridge                    3            0.00%
+972    floor                          3            0.00%
+1857   pier                           3            0.00%
+2564   steering wheel                 3            0.00%
+1044   funfair                        3            0.00%
+864    envelopes                      3            0.00%
+349    cabin                          3            0.00%
+304    buckets                        3            0.00%
+407    cardboard                      3            0.00%
+387    cannon                         3            0.00%
+1305   iceberg                        3            0.00%
+709    decoration, ornament, ornamentation 3            0.00%
+1324   inflatable glove               3            0.00%
+2983   wallet                         3            0.00%
+135    bars                           3            0.00%
+1361   junk                           3            0.00%
+99     baggage carts                  3            0.00%
+2823   towel paper                    3            0.00%
+2355   shovel                         2            0.00%
+232    bone                           2            0.00%
+607    control tower                  2            0.00%
+929    finger                         2            0.00%
+1172   hammock                        2            0.00%
+314    bulbs                          2            0.00%
+121    baptismal font                 2            0.00%
+1891   pitch                          2            0.00%
+188    bidet                          2            0.00%
+784    drain                          2            0.00%
+152    bat                            2            0.00%
+2649   support                        2            0.00%
+822    dvd                            2            0.00%
+2734   television stand               2            0.00%
+2309   sewing machine                 2            0.00%
+1062   garage door                    2            0.00%
+414    carport                        2            0.00%
+410    carousel                       2            0.00%
+2019   pulpit                         2            0.00%
+434    cave                           2            0.00%
+602    control panel                  2            0.00%
+2876   trough                         2            0.00%
+718    dental chair                   2            0.00%
+2245   score                          2            0.00%
+1288   ice bucket                     2            0.00%
+997    folding screen                 2            0.00%
+2707   tanks                          2            0.00%
+2858   trench                         2            0.00%
+1424   leaves                         2            0.00%
+2242   scissors                       2            0.00%
+2334   shelter                        2            0.00%
+1301   ice rink                       2            0.00%
+456    cells                          2            0.00%
+503    chopping board, cutting board  2            0.00%
+1824   pepper                         2            0.00%
+286    bread, breadstuff, staff of life 2            0.00%
+225    body                           2            0.00%
+740    dish rack                      2            0.00%
+809    drum                           2            0.00%
+1336   interior casing                2            0.00%
+635    cover curtain                  2            0.00%
+2197   safety side                    2            0.00%
+1572   mobile                         2            0.00%
+2540   stapler                        2            0.00%
+726    desk mat                       2            0.00%
+2832   tractor                        2            0.00%
+1020   forklift                       2            0.00%
+1725   padlock                        2            0.00%
+1934   podium                         2            0.00%
+2072   ramp                           2            0.00%
+2913   urinal                         2            0.00%
+963    flip flop                      2            0.00%
+2405   ski slope                      2            0.00%
+185    bicycle rack                   2            0.00%
+1231   helmet                         2            0.00%
+1072   gas cap                        2            0.00%
+2156   roof rack                      2            0.00%
+2735   temple                         2            0.00%
+2758   throne                         2            0.00%
+2840   train, railroad train          2            0.00%
+700    dashboard                      2            0.00%
+126    barbed wire                    2            0.00%
+3010   water tower                    2            0.00%
+1505   mask                           2            0.00%
+2196   safety rail                    2            0.00%
+1410   latch                          2            0.00%
+1392   ladle                          2            0.00%
+544    clouds                         2            0.00%
+656    crevasse                       2            0.00%
+2409   skimmer                        2            0.00%
+3063   wiper                          2            0.00%
+2176   rubble                         2            0.00%
+975    floor spotlight                2            0.00%
+2151   roller coaster                 2            0.00%
+603    control panel, instrument panel, control board, board, panel 2            0.00%
+2149   roll                           2            0.00%
+816    dumbbell                       2            0.00%
+1706   outlet                         2            0.00%
+1129   grating                        2            0.00%
+2490   spectacles, specs, eyeglasses, glasses 2            0.00%
+947    first floor                    2            0.00%
+2744   terraces                       2            0.00%
+2741   terminal                       2            0.00%
+2529   staircase                      2            0.00%
+1885   pipe, tube                     2            0.00%
+2145   rocky formation                2            0.00%
+2746   test tube                      2            0.00%
+1423   leave                          2            0.00%
+528    clipboard                      2            0.00%
+280    bread box                      2            0.00%
+2494   spice rack                     2            0.00%
+1486   magazine rack                  2            0.00%
+759    divider                        2            0.00%
+2538   stalls                         2            0.00%
+1554   mill                           2            0.00%
+311    building materials             2            0.00%
+1941   pond                           2            0.00%
+2401   ski lift                       2            0.00%
+149    baskets                        2            0.00%
+2510   spotlights                     2            0.00%
+2717   tarp                           2            0.00%
+1914   plaque                         2            0.00%
+2017   puddle                         2            0.00%
+2539   stands                         2            0.00%
+2732   television camera              2            0.00%
+1741   pallets                        2            0.00%
+736    diploma                        2            0.00%
+2070   rake                           2            0.00%
+2802   tombstones                     1            0.00%
+2761   ticket counter                 1            0.00%
+2305   sewer                          1            0.00%
+44     aqueduct                       1            0.00%
+2766   tie                            1            0.00%
+1738   palette                        1            0.00%
+1470   logo                           1            0.00%
+283    bread rolls                    1            0.00%
+2992   watch                          1            0.00%
+1164   hairdresser chair              1            0.00%
+2788   toilet paper holder            1            0.00%
+2020   pumpkin                        1            0.00%
+825    dvd player                     1            0.00%
+2472   sofa bed                       1            0.00%
+1368   key                            1            0.00%
+432    catwalk                        1            0.00%
+1218   headstones                     1            0.00%
+2701   tallboy                        1            0.00%
+1912   plants                         1            0.00%
+296    briefcase                      1            0.00%
+3071   witness stand                  1            0.00%
+2964   violin                         1            0.00%
+942    fireplace utensils             1            0.00%
+1143   grinder                        1            0.00%
+2927   valve                          1            0.00%
+2715   target                         1            0.00%
+3036   wheelbarrow                    1            0.00%
+208    blast furnace                  1            0.00%
+227    boiler                         1            0.00%
+1434   legs                           1            0.00%
+2808   tools                          1            0.00%
+1171   hammer                         1            0.00%
+909    fender                         1            0.00%
+1014   footpath                       1            0.00%
+1135   greenhouse                     1            0.00%
+813    duck                           1            0.00%
+2014   propeller                      1            0.00%
+360    calculator                     1            0.00%
+554    coat rack                      1            0.00%
+679    cups                           1            0.00%
+1297   ice hockey rink                1            0.00%
+904    fence                          1            0.00%
+1569   mitten                         1            0.00%
+728    detergent dispenser            1            0.00%
+1921   plate rack                     1            0.00%
+1826   pepper shaker                  1            0.00%
+871    excavator                      1            0.00%
+2686   table cloth                    1            0.00%
+459    centerpiece                    1            0.00%
+3059   wine rack                      1            0.00%
+435    cave entrance                  1            0.00%
+1017   forest                         1            0.00%
+2915   utensils                       1            0.00%
+2682   synthesizer                    1            0.00%
+1095   glacier                        1            0.00%
+2338   shipyard                       1            0.00%
+2710   tape                           1            0.00%
+125    barbecue                       1            0.00%
+1345   jack                           1            0.00%
+1258   hollow                         1            0.00%
+1689   onions                         1            0.00%
+2139   rocker                         1            0.00%
+477    chalk                          1            0.00%
+1906   plant                          1            0.00%
+1584   monitors                       1            0.00%
+2360   shower room                    1            0.00%
+1674   obelisk                        1            0.00%
+2315   shanties                       1            0.00%
+1402   landfill                       1            0.00%
+1066   garland                        1            0.00%
+1782   parterre                       1            0.00%
+2859   trestle                        1            0.00%
+1036   fruit stand                    1            0.00%
+2667   swimming pool ladder           1            0.00%
+2797   toll plaza                     1            0.00%
+1338   iron                           1            0.00%
+2830   track                          1            0.00%
+2993   watchtower                     1            0.00%
+3049   windmill, aerogenerator, wind generator 1            0.00%
+388    canoe                          1            0.00%
+2779   tissue                         1            0.00%
+2282   security camera                1            0.00%
+51     arch                           1            0.00%
+482    check-in-desk                  1            0.00%
+209    bleachers                      1            0.00%
+424    casing interior                1            0.00%
+1678   office                         1            0.00%
+2313   shaker                         1            0.00%
+2359   shower faucet                  1            0.00%
+1161   hair dryer                     1            0.00%
+1209   head rail                      1            0.00%
+2428   slats                          1            0.00%
+886    eyeglasses                     1            0.00%
+319    bullring                       1            0.00%
+1383   lab bench                      1            0.00%
+1233   henhouse                       1            0.00%
+190    big top                        1            0.00%
+2322   shawl                          1            0.00%
+2508   sports bag                     1            0.00%
+292    brick                          1            0.00%
+636    covered bridge                 1            0.00%
+698    dam                            1            0.00%
+827    dvds                           1            0.00%
+2636   sugar bowl                     1            0.00%
+3017   watering can                   1            0.00%
+2184   runner cloth                   1            0.00%
+1960   post-it                        1            0.00%
+2512   spray                          1            0.00%
+1163   hairbrush                      1            0.00%
+1108   golf bag                       1            0.00%
+606    control table                  1            0.00%
+317    bulldozer                      1            0.00%
+2115   rifle                          1            0.00%
+572    coffin                         1            0.00%
+951    fish tank                      1            0.00%
+2862   tricycle                       1            0.00%
+1046   funnel                         1            0.00%
+1955   portable fridge                1            0.00%
+1087   gazebo                         1            0.00%
+1110   golf cart                      1            0.00%
+2853   treadmill                      1            0.00%
+2844   transformer                    1            0.00%
+1943   pool                           1            0.00%
+775    door bars                      1            0.00%
+358    cages                          1            0.00%
+1274   hotplate                       1            0.00%
+764    dog dish                       1            0.00%
+549    coaster                        1            0.00%
+1006   foot rest                      1            0.00%
+2503   sponge                         1            0.00%
+928    filter                         1            0.00%
+1001   food processor                 1            0.00%
+2493   spice jar                      1            0.00%
+1390   labyrinth                      1            0.00%
+2991   washing machines               1            0.00%
+1468   log                            1            0.00%
+955    flag pole                      1            0.00%
+1030   fringe                         1            0.00%
+1523   mechanical shovel              1            0.00%
+63     artificial golf green          1            0.00%
+1256   hole                           1            0.00%
+1322   inflatable bounce game         1            0.00%
+1828   pergola                        1            0.00%
+1156   gutter                         1            0.00%
+1342   ironing board                  1            0.00%
+476    chaise lounge                  1            0.00%
+2541   star                           1            0.00%
+1061   garage                         1            0.00%
+2576   sticks                         1            0.00%
+2449   smoke                          1            0.00%
+2731   telescope                      1            0.00%
+437    cd                             1            0.00%
+1193   hard drive                     1            0.00%
+444    cds                            1            0.00%
+288    breads                         1            0.00%
+2803   tongs                          1            0.00%
+2165   rotisserie                     1            0.00%
+1138   grill                          1            0.00%
+2352   shore                          1            0.00%
+2800   tomb                           1            0.00%
+1754   pantry                         1            0.00%
+2774   tins                           1            0.00%
+912    ferris wheel                   1            0.00%
+1789   patio                          1            0.00%
+674    cue rack                       1            0.00%
+582    columns                        1            0.00%
+1763   paper filer                    1            0.00%
+3027   weeds                          1            0.00%
+2553   steam shovel                   1            0.00%
+2231   sauna                          1            0.00%
+2752   thermometer                    1            0.00%
+2831   tracks                         1            0.00%
+2846   trash bag                      1            0.00%
+1277   house number                   1            0.00%
+932    fire alarm                     1            0.00%
+3037   wheelchair                     1            0.00%
+2410   skip                           1            0.00%
+1654   newspaper stand                1            0.00%
+1951   porch                          1            0.00%
+268    box office, ticket office, ticket booth 1            0.00%
+2949   viaduct                        1            0.00%
+2962   vineyard                       1            0.00%
+3005   water mill                     1            0.00%
+3013   water wheel                    1            0.00%
+699    dartboard                      1            0.00%
+3662   street light                   1            0.00%
+1425   lectern                        1            0.00%
+592    confessional booth             1            0.00%
+2997   water cooler                   1            0.00%
+278    branches                       1            0.00%
+1607   mountain pass                  1            0.00%

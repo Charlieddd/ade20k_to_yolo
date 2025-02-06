@@ -1,0 +1,1637 @@
+path: /home/charlie/fiftyone/dataset
+train: images/train
+val: images/val
+test: ''
+names:
+  0: acropolis
+  1: ad, advertisement, advertizement, advertising, advertizing, advert
+  2: aerial
+  3: air conditioner, air conditioning
+  4: air machine
+  5: aircraft carrier
+  6: airplane, aeroplane, plane
+  7: alarm
+  8: alarm clock
+  9: alga
+  10: algae
+  11: altar, communion table, Lord's table
+  12: altarpiece
+  13: anchor
+  14: andiron
+  15: andirons
+  16: animal, animate being, beast, brute, creature, fauna
+  17: animals
+  18: antler
+  19: antlers
+  20: aperture
+  21: apparel, wearing apparel, dress, clothes
+  22: apple
+  23: apples
+  24: appliance
+  25: apron
+  26: aquarium
+  27: aqueduct
+  28: arcade
+  29: arcade machine
+  30: arcade machines
+  31: arcade, colonnade
+  32: arcades
+  33: arch
+  34: arch, archway
+  35: arm
+  36: arm panel
+  37: arm support
+  38: armchair
+  39: armrest
+  40: art
+  41: articulated lamp
+  42: artificial golf green
+  43: ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin,
+    trash barrel, trash bin
+  44: ashtray
+  45: atm
+  46: auxiliary trolley
+  47: award
+  48: awning, sunshade, sunblind
+  49: baby buggy, baby carriage, carriage, perambulator, pram, stroller, go-cart,
+    pushchair, pusher
+  50: baby chair
+  51: back
+  52: back pillow
+  53: backdrop
+  54: backpack, back pack, knapsack, packsack, rucksack, haversack
+  55: backplate
+  56: badge
+  57: badlands
+  58: bag
+  59: bag, handbag, pocketbook, purse
+  60: bag, traveling bag, travelling bag, grip, suitcase
+  61: baggage carts
+  62: balcony
+  63: ball
+  64: ball rack
+  65: ball storage
+  66: ball, globe, orb
+  67: balloon
+  68: balustrade
+  69: bandstand
+  70: banner, streamer
+  71: bannister, banister, balustrade, balusters, handrail
+  72: baptismal font
+  73: bar
+  74: bar lift
+  75: barbecue
+  76: barbed wire
+  77: barn
+  78: barrel rack
+  79: barrel, cask
+  80: barrels
+  81: barricade
+  82: barrier
+  83: bars
+  84: base
+  85: base, pedestal, stand
+  86: baseboard
+  87: baseboard, mopboard, skirting board
+  88: basin
+  89: basket
+  90: basket, basketball hoop, hoop
+  91: basket, handbasket
+  92: basketball court
+  93: baskets
+  94: bat
+  95: bathrobe
+  96: bathtub, bathing tub, bath, tub
+  97: batting cage
+  98: beacon, lighthouse, beacon light, pharos
+  99: beam
+  100: beams
+  101: bed
+  102: bed side
+  103: bedpost
+  104: bedspring
+  105: beer machine
+  106: bell
+  107: belt
+  108: bench
+  109: berth
+  110: bicycle rack
+  111: bicycle racks
+  112: bicycle, bike, wheel, cycle
+  113: bidet
+  114: bidon
+  115: big top
+  116: billboard, hoarding
+  117: binder, ring-binder
+  118: binoculars
+  119: bird
+  120: birdcage
+  121: blackboard, chalkboard
+  122: blade
+  123: blade, vane
+  124: blanket, cover
+  125: blankets
+  126: blast furnace
+  127: bleachers
+  128: blender
+  129: blind
+  130: blind, screen
+  131: blinds
+  132: block
+  133: blouse
+  134: blusher brush
+  135: board, plank
+  136: boards
+  137: boat
+  138: body
+  139: boiler
+  140: bollard
+  141: bone
+  142: bones
+  143: book
+  144: book stand
+  145: bookcase
+  146: bookend
+  147: booklet, brochure, folder, leaflet, pamphlet
+  148: boot
+  149: booth
+  150: booth, cubicle, stall, kiosk
+  151: bottle
+  152: bottle pack
+  153: bottle rack
+  154: bouquet, corsage, posy, nosegay
+  155: bow
+  156: bowl
+  157: bowling alley
+  158: bowling ball return
+  159: bowling pin
+  160: bowling pins
+  161: bowls
+  162: box
+  163: box office, ticket office, ticket booth
+  164: bracelet
+  165: branch
+  166: branches
+  167: bread basket
+  168: bread box
+  169: bread roll
+  170: bread rolls
+  171: bread, breadstuff, staff of life
+  172: breads
+  173: brick
+  174: bricks
+  175: bridge, span
+  176: briefcase
+  177: broom
+  178: brush
+  179: brushes
+  180: bucket
+  181: bucket, pail
+  182: buckets
+  183: bud
+  184: buffet
+  185: buffet, counter, sideboard
+  186: building materials
+  187: building, edifice
+  188: bulb
+  189: bulbs
+  190: bull
+  191: bulldozer
+  192: bulletin board, notice board
+  193: bullring
+  194: bumper
+  195: buoy
+  196: burner
+  197: bus stop
+  198: bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach,
+    omnibus, passenger vehicle
+  199: buses
+  200: bushes
+  201: business cards
+  202: button
+  203: button panel
+  204: buttons
+  205: buttress
+  206: cabin
+  207: cabinet
+  208: cable
+  209: cables
+  210: cactus
+  211: cage
+  212: cages
+  213: calculator
+  214: calendar
+  215: camcorder
+  216: camel
+  217: camera, photographic camera
+  218: can
+  219: can, tin, tin can
+  220: canal
+  221: candelabrum, candelabra
+  222: candies
+  223: candle
+  224: candle, taper, wax light
+  225: candles
+  226: candlestick, candle holder
+  227: candy bag
+  228: candy, confect
+  229: cane
+  230: canes
+  231: canister, cannister, tin
+  232: cannon
+  233: canoe
+  234: canopy
+  235: canvas
+  236: canyon
+  237: cap
+  238: cape
+  239: capital
+  240: caps
+  241: car scrapping
+  242: car, auto, automobile, machine, motorcar
+  243: caravan
+  244: card
+  245: card table
+  246: cardboard
+  247: cards
+  248: cargo
+  249: carousel
+  250: carport
+  251: cart
+  252: case, display case, showcase, vitrine
+  253: cash register, register
+  254: casing
+  255: casing interior
+  256: casserole
+  257: cassette
+  258: cassettes
+  259: castle
+  260: cat
+  261: catwalk
+  262: cave
+  263: cave entrance
+  264: cd
+  265: cds
+  266: ceiling
+  267: ceiling recessed light
+  268: cells
+  269: centerpiece
+  270: central reservation
+  271: ceramic box
+  272: ceramic pot
+  273: chain
+  274: chair
+  275: chair desk
+  276: chaise lounge
+  277: chalk
+  278: chandelier, pendant, pendent
+  279: check-in-desk
+  280: chess
+  281: chest
+  282: chest of drawers, chest, bureau, dresser
+  283: chicken
+  284: chimney
+  285: chip
+  286: chips
+  287: chocolate
+  288: chopping board, cutting board
+  289: christmas tree
+  290: cigar box
+  291: cistern
+  292: cistern, water tank
+  293: city
+  294: clamp
+  295: clamp lamp
+  296: cliff, drop, drop-off
+  297: cliffs
+  298: clipboard
+  299: cloak
+  300: clock
+  301: closet
+  302: closet rod
+  303: clothes hanging
+  304: clothespin
+  305: clothing
+  306: cloud
+  307: clouds
+  308: club
+  309: coaster
+  310: coat
+  311: coat of arms
+  312: coat rack
+  313: cockpit
+  314: coconut
+  315: coffee cup
+  316: coffee maker
+  317: coffee pot
+  318: coffee table, cocktail table
+  319: coffin
+  320: cold storage
+  321: columbarium niche
+  322: column
+  323: column, pillar
+  324: columns
+  325: comforter
+  326: computer case
+  327: computer, computing machine, computing device, data processor, electronic computer,
+    information processing system
+  328: confessional booth
+  329: console
+  330: console table, console
+  331: container
+  332: containers
+  333: contrabass
+  334: control panel
+  335: control panel, instrument panel, control board, board, panel
+  336: control table
+  337: control tower
+  338: controls
+  339: conveyer belt, conveyor belt, conveyer, conveyor, transporter
+  340: cooker
+  341: cookie
+  342: cookies
+  343: cool box
+  344: cooler
+  345: coral
+  346: cord
+  347: corner pocket
+  348: cornice
+  349: counter
+  350: counters
+  351: countertop
+  352: court
+  353: cover curtain
+  354: covered bridge
+  355: cow, moo-cow
+  356: cows
+  357: cradle
+  358: crane
+  359: crate
+  360: cream
+  361: cream tube
+  362: creamer
+  363: creeper
+  364: crevasse
+  365: crock
+  366: cross
+  367: crosswalk
+  368: cruet
+  369: cubicles
+  370: cue
+  371: cue rack
+  372: cue, cue stick, pool cue, pool stick
+  373: cues
+  374: cup
+  375: cups
+  376: curb
+  377: curb, curbing, kerb
+  378: curtain
+  379: curtain cover
+  380: curtain, drape, drapery, mantle, pall
+  381: curtains
+  382: cushion
+  383: cushions
+  384: cutlery
+  385: dam
+  386: dartboard
+  387: dashboard
+  388: decanter
+  389: deck
+  390: deck chair, beach chair
+  391: deck chairs
+  392: decor
+  393: decoration, ornament, ornamentation
+  394: decorative glass
+  395: degree certificate
+  396: dental chair
+  397: desert
+  398: desk
+  399: desk chair
+  400: desk mat
+  401: desk organizer
+  402: detergent dispenser
+  403: dial
+  404: diffusor
+  405: digital clock
+  406: diploma
+  407: dirt track
+  408: dish rack
+  409: dish, dish aerial, dish antenna, saucer
+  410: dishes
+  411: dishrag, dishcloth
+  412: dishwasher, dish washer, dishwashing machine
+  413: dispenser
+  414: display
+  415: display board
+  416: display window, shop window, shopwindow, show window
+  417: divider
+  418: diving board
+  419: document, written document, papers
+  420: dog dish
+  421: dog, domestic dog, Canis familiaris
+  422: doily
+  423: doll
+  424: dolphin
+  425: dome
+  426: door
+  427: door bars
+  428: door frame
+  429: doorbell
+  430: doors
+  431: dormer
+  432: double door
+  433: drain
+  434: drain pipe
+  435: drawer
+  436: drawing
+  437: dresses
+  438: dressing table
+  439: dried herbs
+  440: drift ice
+  441: drill
+  442: driveway
+  443: drum
+  444: drums
+  445: duck
+  446: dumbbell
+  447: dummy
+  448: dune
+  449: dvd
+  450: dvd box
+  451: dvd player
+  452: dvds
+  453: dye
+  454: ear
+  455: earmuffs
+  456: earrings
+  457: earth
+  458: earth, ground
+  459: easel
+  460: eaves
+  461: egg
+  462: eggs
+  463: eiderdown, duvet, continental quilt
+  464: elephant
+  465: elevator
+  466: elevator door
+  467: elevator doors
+  468: elevator, lift
+  469: embankment
+  470: embrasure
+  471: engine
+  472: entrance
+  473: entry phone
+  474: envelope
+  475: envelopes
+  476: equipment
+  477: escalator, moving staircase, moving stairway
+  478: excavator
+  479: exercise bike
+  480: exhibitor
+  481: extractor fan
+  482: eye
+  483: eyebrow
+  484: eyeglasses
+  485: fabric
+  486: fabric, cloth, material, textile
+  487: face
+  488: factory
+  489: fairground ride
+  490: fan
+  491: faucet
+  492: faucet, spigot
+  493: fax machine
+  494: feeder
+  495: fence
+  496: fence, fencing
+  497: fences
+  498: fender
+  499: fern
+  500: ferris wheel
+  501: field
+  502: figure
+  503: figurine, statuette
+  504: file
+  505: file box
+  506: file cabinet
+  507: file cabinets
+  508: file, file cabinet, filing cabinet
+  509: files
+  510: filter
+  511: finger
+  512: fire
+  513: fire alarm
+  514: fire engine
+  515: fire escape
+  516: fire extinguisher, extinguisher, asphyxiator
+  517: fire utensils
+  518: fireplace utensils
+  519: fireplace, hearth, open fireplace
+  520: fireplug, fire hydrant, plug
+  521: firewood
+  522: first floor
+  523: fish
+  524: fish farm water
+  525: fish tank
+  526: flag
+  527: flag pole
+  528: flags
+  529: flame
+  530: flask
+  531: flip flop
+  532: float
+  533: floodlight
+  534: floodlights
+  535: floor
+  536: floor recessed light
+  537: floor spotlight
+  538: floor, flooring
+  539: flower
+  540: flowers
+  541: fluorescent
+  542: fluorescent, fluorescent fixture
+  543: flusher
+  544: flyer
+  545: fog
+  546: fog bank
+  547: folders
+  548: folding chair
+  549: folding door
+  550: folding screen
+  551: font
+  552: food processor
+  553: food, solid food
+  554: foodstuffs
+  555: foot
+  556: foot rest
+  557: footboard
+  558: footbridge, overcrossing, pedestrian bridge
+  559: footpath
+  560: footrest
+  561: forecourt
+  562: forest
+  563: forge
+  564: fork
+  565: forklift
+  566: fort
+  567: fountain
+  568: frame
+  569: freezer
+  570: freight goods
+  571: fringe
+  572: front
+  573: fruit
+  574: fruit stand
+  575: frying pan
+  576: funfair
+  577: funnel
+  578: furrow
+  579: fuselage
+  580: game
+  581: gangway
+  582: garage
+  583: garage door
+  584: garbage
+  585: garland
+  586: garlic
+  587: gas cap
+  588: gas cylinder
+  589: gas station
+  590: gate
+  591: gates
+  592: gateway
+  593: gaze
+  594: gazebo
+  595: girder
+  596: glacier
+  597: glass separation
+  598: glass, drinking glass
+  599: glove
+  600: gloves
+  601: goal
+  602: golf bag
+  603: golf ball
+  604: golf cart
+  605: golf club
+  606: goods
+  607: goose
+  608: grand piano, grand
+  609: grandstand, covered stand
+  610: graphic equalizer
+  611: grass
+  612: grassland
+  613: grating
+  614: gravel
+  615: gravestone, headstone, tombstone
+  616: greenhouse
+  617: grill
+  618: grill, grille, grillwork
+  619: grille
+  620: grille door
+  621: grinder
+  622: gripper
+  623: ground desert
+  624: guitar
+  625: gun
+  626: gutter
+  627: gym shoe, sneaker, tennis shoe
+  628: h-stretcher
+  629: hair
+  630: hair dryer
+  631: hair spray
+  632: hairbrush
+  633: hairdresser chair
+  634: ham
+  635: hammer
+  636: hammock
+  637: hand
+  638: handle
+  639: handle, grip, handgrip, hold
+  640: hanger
+  641: hangers
+  642: hanging clothes
+  643: hard drive
+  644: harp
+  645: hat, chapeau, lid
+  646: hatchery
+  647: hats
+  648: hay
+  649: hay bale
+  650: hay rolls
+  651: head
+  652: head rail
+  653: headboard
+  654: headlight
+  655: headphones
+  656: headrest
+  657: headstone cross
+  658: headstones
+  659: heater, warmer
+  660: hedge, hedgerow
+  661: helicopter
+  662: helmet
+  663: hen, biddy
+  664: henhouse
+  665: highlight
+  666: hill
+  667: hills
+  668: hillside
+  669: hinge
+  670: hip tiles
+  671: hobby-horse
+  672: hole
+  673: hole puncher
+  674: hollow
+  675: hood
+  676: hood, exhaust hood
+  677: hook
+  678: horse, Equus caballus
+  679: hose
+  680: hot air balloon
+  681: hot tub
+  682: hotplate
+  683: house
+  684: house number
+  685: housing
+  686: hovel, hut, hutch, shack, shanty
+  687: howdah
+  688: huts
+  689: ice bucket
+  690: ice cone
+  691: ice cream
+  692: ice field
+  693: ice floe, floe
+  694: ice hockey rink
+  695: ice maker
+  696: ice mountain
+  697: ice rink
+  698: ice shelf
+  699: ice, water ice
+  700: iceberg
+  701: idol
+  702: igloo
+  703: incense
+  704: index cards
+  705: inflatable bounce game
+  706: inflatable glove
+  707: inside arm
+  708: instrument
+  709: interior casing
+  710: iron
+  711: iron tubes
+  712: ironing board
+  713: island
+  714: jack
+  715: jacket
+  716: jam
+  717: jar
+  718: jars
+  719: jersey, T-shirt, tee shirt
+  720: jetty
+  721: jewelry display
+  722: joist
+  723: jug
+  724: junk
+  725: kennel
+  726: kennels
+  727: kettle, boiler
+  728: key
+  729: keyboard
+  730: keys
+  731: kitchen island
+  732: kitchen utensils
+  733: knife
+  734: knob
+  735: lab bench
+  736: label
+  737: label tag
+  738: label, recording label
+  739: labyrinth
+  740: ladder
+  741: ladle
+  742: lake
+  743: lamp
+  744: lamp housing
+  745: lampshade
+  746: land, ground, soil
+  747: landfill
+  748: landing gear
+  749: lantern
+  750: laptop, laptop computer
+  751: latch
+  752: lattice
+  753: lava
+  754: leaf
+  755: leather
+  756: leave
+  757: leaves
+  758: lectern
+  759: left arm
+  760: left foot
+  761: left hand
+  762: left leg
+  763: left shoulder
+  764: leg
+  765: legs
+  766: lemon
+  767: lever
+  768: license plate
+  769: lid
+  770: light
+  771: light bulb
+  772: light bulb, lightbulb, bulb, incandescent lamp, electric light, electric-light
+    bulb
+  773: light source
+  774: light switches
+  775: light tower
+  776: light, light source
+  777: lighter
+  778: lights
+  779: litter basket
+  780: livestock
+  781: lock
+  782: locker
+  783: lockers
+  784: lockgate
+  785: log
+  786: logo
+  787: logs
+  788: loudspeaker
+  789: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+  790: lower sash
+  791: luggage
+  792: lumber, timber
+  793: machine gun
+  794: machinery
+  795: magazine
+  796: magazine rack
+  797: mailboxes
+  798: manchette
+  799: manhole
+  800: map
+  801: margarine
+  802: marker
+  803: mask
+  804: massage bed
+  805: mast
+  806: mat
+  807: material rolls
+  808: materials
+  809: mattress
+  810: mausoleum
+  811: meat
+  812: meat bags
+  813: meat piece
+  814: mechanical shovel
+  815: medicines
+  816: menu
+  817: merchandise, ware, product
+  818: mesh guard rail
+  819: metal shutter
+  820: metal shutters
+  821: meter
+  822: mezzanine, first balcony
+  823: microphone
+  824: microscope
+  825: microwave, microwave oven
+  826: milestone
+  827: mill
+  828: mineral
+  829: miniature chair
+  830: minibike, motorbike
+  831: mirror
+  832: mitten
+  833: mixer
+  834: mobile
+  835: mobile home
+  836: model
+  837: molding
+  838: monitor
+  839: monitor, monitoring device
+  840: monitors
+  841: monument
+  842: moon
+  843: mosque
+  844: moss
+  845: motor
+  846: mountain pass
+  847: mountain, mount
+  848: mouse
+  849: mousepad, mouse mat
+  850: mouth
+  851: mug
+  852: mugs
+  853: muntin
+  854: music stand
+  855: nail
+  856: napkin rack
+  857: napkin ring
+  858: napkin, table napkin, serviette
+  859: napkins
+  860: neck
+  861: necklace
+  862: necklaces
+  863: net
+  864: newspaper stand
+  865: newspaper, paper
+  866: newspapers
+  867: niche
+  868: nose
+  869: notebook
+  870: notepad
+  871: notes
+  872: numeral, number
+  873: nuts
+  874: oar
+  875: obelisk
+  876: observatory
+  877: obstacle
+  878: office
+  879: office partition
+  880: oil lamp
+  881: onion
+  882: onions
+  883: opening
+  884: orange
+  885: oranges
+  886: organ
+  887: ornaments
+  888: ottoman, pouf, pouffe, puff, hassock
+  889: outlet
+  890: outside arm
+  891: oven
+  892: overflot plate
+  893: overhang
+  894: pack
+  895: pack of cigarettes
+  896: pack of snuff
+  897: package
+  898: packages
+  899: packet
+  900: packets
+  901: pad
+  902: paddle
+  903: padlock
+  904: pagoda
+  905: paint brush
+  906: paint brushes
+  907: paint pot
+  908: paintbrush
+  909: painting, picture
+  910: palette
+  911: palisade
+  912: pallet
+  913: pallets
+  914: palm trees
+  915: palm, palm tree
+  916: pan
+  917: pane
+  918: pane, pane of glass, window glass
+  919: pantry
+  920: paper
+  921: paper cups
+  922: paper filer
+  923: paper roll
+  924: paper towel
+  925: park
+  926: parking
+  927: parking lot
+  928: parking meter
+  929: parking place
+  930: parterre
+  931: partition, divider
+  932: path
+  933: patio
+  934: patio, terrace
+  935: patty, cake
+  936: pavilion
+  937: paving stone
+  938: pelt
+  939: pen
+  940: pen set
+  941: pencil
+  942: pendant lamp
+  943: penguin
+  944: pens
+  945: pepper
+  946: pepper shaker
+  947: pergola
+  948: person
+  949: person, individual, someone, somebody, mortal, soul
+  950: pet dish
+  951: petal
+  952: petrol pump
+  953: photo machine
+  954: piano, pianoforte, forte-piano
+  955: pictures
+  956: pier
+  957: pier, wharf, wharfage, dock
+  958: pig
+  959: pigeonhole
+  960: pillow
+  961: pillows
+  962: pilon
+  963: pinball
+  964: pineapple
+  965: pinecone
+  966: pinecones
+  967: pipe
+  968: pipe, pipage, piping
+  969: pipe, tube
+  970: piping
+  971: piston
+  972: pit
+  973: pitch
+  974: pitcher, ewer
+  975: placard
+  976: place card
+  977: place mat
+  978: planks
+  979: plant
+  980: plant box
+  981: plant pots
+  982: plant, flora, plant life
+  983: planter
+  984: plants
+  985: plaque
+  986: plastic
+  987: plastic cup
+  988: plate
+  989: plate mat
+  990: plate rack
+  991: plateau
+  992: platform
+  993: platter
+  994: playground
+  995: plaything, toy
+  996: podium
+  997: pole
+  998: poles
+  999: poncho
+  1000: pond
+  1001: pond water
+  1002: pool
+  1003: pool ball
+  1004: pool balls
+  1005: pool table, billiard table, snooker table
+  1006: porch
+  1007: portable fridge
+  1008: post
+  1009: post light
+  1010: post-it
+  1011: postbox, mailbox, letter box
+  1012: postcard
+  1013: poster, posting, placard, notice, bill, card
+  1014: posters
+  1015: pot
+  1016: pot, flowerpot
+  1017: pots
+  1018: potters wheel
+  1019: pottery, clayware
+  1020: power point
+  1021: price tag
+  1022: printer
+  1023: projector
+  1024: propeller
+  1025: puddle
+  1026: pulley
+  1027: pulpit
+  1028: pumpkin
+  1029: pumpkins
+  1030: punching bag
+  1031: pylon, power pylon
+  1032: pyramid
+  1033: quay
+  1034: rack
+  1035: racket
+  1036: radiator
+  1037: radio
+  1038: rail
+  1039: railing
+  1040: railing, rail
+  1041: railings
+  1042: railroad track
+  1043: rails
+  1044: railway
+  1045: railway tie
+  1046: rainbow
+  1047: rake
+  1048: rakes
+  1049: ramp
+  1050: ranch
+  1051: receiver
+  1052: record player
+  1053: recorder
+  1054: recycling bin
+  1055: reel
+  1056: reels
+  1057: refrigerator, icebox
+  1058: refuge
+  1059: remains
+  1060: remote control, remote
+  1061: revolving door
+  1062: ribbon
+  1063: ride
+  1064: rider
+  1065: rifle
+  1066: right arm
+  1067: right foot
+  1068: right hand
+  1069: right leg
+  1070: right shoulder
+  1071: rim
+  1072: ring
+  1073: riser
+  1074: river
+  1075: road
+  1076: road, route
+  1077: roads
+  1078: rock
+  1079: rock, stone
+  1080: rocker
+  1081: rocking chair
+  1082: rocks
+  1083: rocky formation
+  1084: rocky formations
+  1085: rocky wall
+  1086: rod
+  1087: roll
+  1088: roller coaster
+  1089: roof
+  1090: roof rack
+  1091: root
+  1092: rope
+  1093: rope bridge
+  1094: ropes
+  1095: rose window
+  1096: rotisserie
+  1097: roundabout
+  1098: rubber ring
+  1099: rubbish
+  1100: rubbish, trash, scrap
+  1101: rubble
+  1102: rudder
+  1103: rug, carpet, carpeting
+  1104: ruins
+  1105: rung
+  1106: runner cloth
+  1107: runway
+  1108: runway strip
+  1109: sack
+  1110: sacks
+  1111: saddle
+  1112: safety belt
+  1113: safety rail
+  1114: safety side
+  1115: sail
+  1116: sailboat
+  1117: sailing boat
+  1118: salt
+  1119: salt and pepper
+  1120: salt marsh
+  1121: salt shaker
+  1122: saltcellar
+  1123: sand
+  1124: sand dune
+  1125: sand dunes
+  1126: sand trap
+  1127: sandal
+  1128: sandbar
+  1129: sandbox
+  1130: sandpit
+  1131: sandwich
+  1132: santa claus
+  1133: sash
+  1134: sash lock
+  1135: sauce
+  1136: saucepan
+  1137: sauna
+  1138: savanna
+  1139: scaffolding, staging
+  1140: scarf
+  1141: scarfs
+  1142: schoolyard
+  1143: scissors
+  1144: sconce
+  1145: score
+  1146: scoreboard
+  1147: scotch tape
+  1148: screen
+  1149: screen door, screen
+  1150: screen, CRT screen
+  1151: screen, silver screen, projection screen
+  1152: screens
+  1153: screw
+  1154: scrub
+  1155: scrubland
+  1156: sculpture
+  1157: sea
+  1158: seagull
+  1159: seal
+  1160: seat
+  1161: seat base
+  1162: seat belt
+  1163: seat cushion
+  1164: seating
+  1165: seats
+  1166: security camera
+  1167: security checkpoint
+  1168: security door
+  1169: security door frame
+  1170: seedbed
+  1171: semidesert ground
+  1172: service station
+  1173: set of instruments
+  1174: sewer
+  1175: sewing machine
+  1176: shade
+  1177: shaft
+  1178: shaker
+  1179: shampoo
+  1180: shanties
+  1181: shawl
+  1182: shed
+  1183: sheep
+  1184: sheep pen
+  1185: sheet
+  1186: shelf
+  1187: shell
+  1188: shelter
+  1189: shelves
+  1190: shield
+  1191: ship
+  1192: shipyard
+  1193: shirt
+  1194: shoe
+  1195: shop window
+  1196: shop, store
+  1197: shopping cart
+  1198: shops
+  1199: shore
+  1200: shorts
+  1201: shovel
+  1202: shower
+  1203: shower curtain
+  1204: shower door
+  1205: shower faucet
+  1206: shower room
+  1207: shower stall, shower bath
+  1208: shower tray
+  1209: shrub
+  1210: shrub, bush
+  1211: shutter
+  1212: shutters
+  1213: side
+  1214: side jamb
+  1215: side pocket
+  1216: side rail
+  1217: sidewalk
+  1218: sidewalk, pavement
+  1219: sign
+  1220: signboard, sign
+  1221: sill
+  1222: silo
+  1223: sink
+  1224: sinks
+  1225: skate
+  1226: skeleton
+  1227: ski
+  1228: ski lift
+  1229: ski lift cabin
+  1230: ski slope
+  1231: ski trail
+  1232: skimmer
+  1233: skip
+  1234: skirt
+  1235: skirts
+  1236: skis
+  1237: skittle
+  1238: skittle alley
+  1239: skittles
+  1240: skull
+  1241: sky
+  1242: skylight
+  1243: skylight, fanlight
+  1244: skyscraper
+  1245: skyscrapers
+  1246: skywalk
+  1247: slats
+  1248: sled
+  1249: slide
+  1250: sliding door
+  1251: slipper
+  1252: slippers
+  1253: slope
+  1254: slot machine, coin machine
+  1255: small table
+  1256: smoke
+  1257: smoke detector
+  1258: sneakers
+  1259: snow
+  1260: snowboard
+  1261: snowy
+  1262: soap
+  1263: soap dish
+  1264: soap dispenser
+  1265: socket
+  1266: sockets
+  1267: socks
+  1268: sofa bed
+  1269: sofa, couch, lounge
+  1270: spade
+  1271: spectacles, specs, eyeglasses, glasses
+  1272: spice jar
+  1273: spice rack
+  1274: spindle
+  1275: sping
+  1276: spire
+  1277: sponge
+  1278: spoon
+  1279: sports bag
+  1280: spotlight, spot
+  1281: spotlights
+  1282: spout
+  1283: spray
+  1284: sprinkler
+  1285: square
+  1286: stabilizer
+  1287: stables
+  1288: stage
+  1289: staircase
+  1290: stairs, steps
+  1291: stairway, staircase
+  1292: stalactite
+  1293: stalactites
+  1294: stalagmite
+  1295: stall, stand, sales booth
+  1296: stalls
+  1297: stands
+  1298: stapler
+  1299: star
+  1300: station
+  1301: stationary bicycle
+  1302: statue
+  1303: steam room
+  1304: steam shovel
+  1305: steering wheel
+  1306: stem
+  1307: step
+  1308: step, stair
+  1309: steps
+  1310: stereo
+  1311: stick
+  1312: sticks
+  1313: stile
+  1314: stone ball
+  1315: stool
+  1316: stools
+  1317: stove
+  1318: stove, kitchen stove, range, kitchen range, cooking stove
+  1319: strainer
+  1320: straw
+  1321: straw bale
+  1322: strawberry
+  1323: street box
+  1324: street lights
+  1325: street market
+  1326: street number
+  1327: street sign
+  1328: streetcar, tram, tramcar, trolley, trolley car
+  1329: stretcher
+  1330: stringer
+  1331: stripe
+  1332: strips
+  1333: strongroom
+  1334: structure
+  1335: stuffed animal head
+  1336: stuffed head
+  1337: stump
+  1338: subway
+  1339: sugar
+  1340: sugar bowl
+  1341: sun
+  1342: support
+  1343: surfboard
+  1344: swamp
+  1345: sweater
+  1346: sweater, jumper
+  1347: sweatshirt
+  1348: sweatshirts
+  1349: swimming pool ladder
+  1350: swimming pool, swimming bath, natatorium
+  1351: swing
+  1352: swings
+  1353: switch
+  1354: switch, electric switch, electrical switch
+  1355: switches
+  1356: swivel chair
+  1357: swmming pool
+  1358: sword
+  1359: synthesizer
+  1360: system
+  1361: table
+  1362: table cloth
+  1363: table football
+  1364: table game
+  1365: table mat
+  1366: table runner
+  1367: table tennis
+  1368: tablecloth
+  1369: tableland
+  1370: tables
+  1371: taillight
+  1372: tallboy
+  1373: tank lid
+  1374: tank, storage tank
+  1375: tanks
+  1376: tap
+  1377: tape
+  1378: taper
+  1379: tapestry, tapis
+  1380: target
+  1381: tarmac
+  1382: tarp
+  1383: tassle
+  1384: teacup
+  1385: teapot
+  1386: teeth
+  1387: telephone
+  1388: telephone booth, phone booth, call box, telephone box, telephone kiosk
+  1389: telephone, phone, telephone set
+  1390: telescope
+  1391: television camera
+  1392: television receiver, television, television set, tv, tv set, idiot box, boob
+    tube, telly, goggle box
+  1393: television stand
+  1394: temple
+  1395: tennis court
+  1396: tent, collapsible shelter
+  1397: terminal
+  1398: terrace
+  1399: terrace cafe
+  1400: terraces
+  1401: test
+  1402: test tube
+  1403: text, textual matter
+  1404: thermometer
+  1405: thermos
+  1406: thermostat
+  1407: throne
+  1408: ticket counter
+  1409: ticket window
+  1410: tie
+  1411: ties
+  1412: tiger
+  1413: tile
+  1414: till
+  1415: tilt wand
+  1416: tins
+  1417: tire
+  1418: tires
+  1419: tissue
+  1420: toaster
+  1421: toaster oven
+  1422: toe board
+  1423: toilet brush
+  1424: toilet paper holder
+  1425: toilet tissue, toilet paper, bathroom tissue
+  1426: toilet, can, commode, crapper, pot, potty, stool, throne
+  1427: toll booth
+  1428: toll gate
+  1429: toll plaza
+  1430: tomato
+  1431: tomatoes
+  1432: tomb
+  1433: tombs
+  1434: tombstones
+  1435: tongs
+  1436: tool
+  1437: toolbox
+  1438: tools
+  1439: toothbrush
+  1440: toothpaste
+  1441: top
+  1442: torso
+  1443: towel
+  1444: towel paper
+  1445: towel rack, towel horse
+  1446: towel radiator
+  1447: towel ring
+  1448: tower
+  1449: track
+  1450: tracks
+  1451: tractor
+  1452: trade name, brand name, brand, marque
+  1453: traffic cone
+  1454: traffic light, traffic signal, stoplight
+  1455: trailer
+  1456: train, railroad train
+  1457: transformer
+  1458: trash bag
+  1459: tray
+  1460: tread
+  1461: treadmill
+  1462: tree
+  1463: trees
+  1464: trellis
+  1465: trench
+  1466: trestle
+  1467: tricycle
+  1468: tripod
+  1469: trophy, prize
+  1470: trough
+  1471: trouser, pant
+  1472: truck, motortruck
+  1473: trucks
+  1474: trunk
+  1475: trunk, tree trunk, bole
+  1476: tube
+  1477: tumble dryer
+  1478: tundra
+  1479: tunnel
+  1480: turbine engine
+  1481: tureen
+  1482: umbrella
+  1483: umbrella stand
+  1484: umbrellas
+  1485: undergrowth
+  1486: upper sash
+  1487: urinal
+  1488: urn
+  1489: utensils
+  1490: utensils canister
+  1491: vacuum cleaner
+  1492: valley, vale
+  1493: valve
+  1494: van
+  1495: vanity
+  1496: vase
+  1497: vases
+  1498: vault
+  1499: vegetables
+  1500: vending machine
+  1501: vent
+  1502: vessel
+  1503: viaduct
+  1504: video
+  1505: video camera
+  1506: videos
+  1507: village
+  1508: vine
+  1509: vineyard
+  1510: violin
+  1511: visor
+  1512: voting booth
+  1513: wagon
+  1514: walkway
+  1515: wall
+  1516: wall recessed light
+  1517: wall socket, wall plug, electric outlet, electrical outlet, outlet, electric
+    receptacle
+  1518: wallet
+  1519: walrus
+  1520: wardrobe, closet, press
+  1521: warehouse
+  1522: warship
+  1523: washer, automatic washer, washing machine
+  1524: washing machines
+  1525: watch
+  1526: watchtower
+  1527: water
+  1528: water chute
+  1529: water cooler
+  1530: water ditch
+  1531: water mill
+  1532: water surf
+  1533: water tower
+  1534: water vapor
+  1535: water wheel
+  1536: waterfall
+  1537: waterfall, falls
+  1538: watering can
+  1539: waterway
+  1540: wave
+  1541: waves
+  1542: webcam
+  1543: weeds
+  1544: weighbridge
+  1545: weight
+  1546: weights
+  1547: well
+  1548: wheat
+  1549: wheel
+  1550: wheelbarrow
+  1551: wheelchair
+  1552: wig
+  1553: wind turbine
+  1554: windmill, aerogenerator, wind generator
+  1555: window
+  1556: window scarf
+  1557: windowpane, window
+  1558: windows
+  1559: windshield
+  1560: wine rack
+  1561: wing
+  1562: wiper
+  1563: wire, conducting wire
+  1564: wires
+  1565: witness stand
+  1566: wok
+  1567: wood
+  1568: wood art
+  1569: wood blocks
+  1570: woodcarving
+  1571: wooden wedge
+  1572: work surface
+  1573: workbench
+  1574: worktable, work table
+  1575: wreath
+  1576: carapace, shell, cuticle, shield
+  1577: jersey, t-shirt, tee shirt
+  1578: sailboat, sailing boat
+  1579: playing field, athletic field, playing area, field
+  1580: central processing unit, cpu, c p u , central processor, processor, mainframe
+  1581: light switch
+  1582: aircraft carrier, carrier, flattop, attack aircraft carrier
+  1583: videocassette recorder, vcr
+  1584: books
+  1585: buildings
+  1586: landing track
+  1587: ceramics
+  1588: cloudy sky
+  1589: puf
+  1590: rocky ground
+  1591: white board
+  1592: school desk
+  1593: name
+  1594: combine harvester
+  1595: sausage
+  1596: kitchen
+  1597: teddy
+  1598: aircraft
+  1599: pant
+  1600: division
+  1601: sky scraper
+  1602: whitewater
+  1603: baseball field
+  1604: pipelines
+  1605: debris
+  1606: blueberry
+  1607: train tracks
+  1608: pear
+  1609: fabrics
+  1610: rowing
+  1611: rubber boat
+  1612: id
+  1613: electric cable
+  1614: separator
+  1615: tupper
+  1616: pork
+  1617: fishing rod
+  1618: earthenware jar
+  1619: flower basket
+  1620: lift
+  1621: japanese lantern
+  1622: bunch grapes
+  1623: pickle
+  1624: street light
