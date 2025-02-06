@@ -91,7 +91,7 @@ The converted dataset can be directly used for YOLO training:
 @misc{
     title  = {ade20k_to_yolo},
     author = {Charlie},
-    url    = {https://github.com/charlie-C929/ade20k_to_yolo},
-    year   = {2024}
+    url    = {https://github.com/Charlieddd/ade20k_to_yolo/tree/main},
+    year   = {2025}
 }
 ```
